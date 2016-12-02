@@ -5,3 +5,6 @@ bundle update
 # Locate to your site folder (Osmahmoud.github.io) and then run:
 bundle exec jekyll build --destination <destination folder>
 # e.g.: bundle exec jekyll build --destination /media/PhD/Github/Jekyll_destination --watch
+
+# to preview what the generated site will look like in your browser locally
+bundle exec jekyll serve
