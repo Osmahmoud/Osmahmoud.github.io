@@ -1,0 +1,80 @@
+---
+layout: page
+title: "Osama Mahmoud"
+subtitle: "Research Associate in Statistics / R Expert"
+meta-title: "Osama Mahmoud - Medical Statistician"
+meta-description: "Reasearch Statistician and R developer with a PhD in Biostatistics, a MSc and a Bachelor degrees in Applied Statistics. An expert in classification and clustering techniques, statistical multilevel modelling and data analysis of public health studies"
+bigimg:
+  - "/img/BigImg/BremenGardin.jpeg" : "Bremen, Germany - 2014"
+  - "/img/BigImg/BremenUni.jpeg" : "Jacobs University, Bremen, Germany - 2014"
+  - "/img/BigImg/CastlePark.jpeg" : "Colchester Castle Park, UK - 2013"
+  - "/img/BigImg/Col-Histreet.jpeg" : "Hi Street, Colchester - 2012"
+  - "/img/BigImg/Colzoo.jpeg" : "Colchester Zoo, UK - 2014"
+  - "/img/BigImg/DataMorall.jpeg" : "Data Driven Conference, Morocco - 2014"
+  - "/img/BigImg/DataMorocco.jpeg" : "Data Driven Conference, Tangier, Morocco - 2014"
+  - "/img/BigImg/Egy-Pyramids.jpg" : "Pyramids, Giza, Egypt"
+  - "/img/BigImg/EssexUniS4.jpeg" : "University of Essex, Colchester, UK - 2012"
+  - "/img/BigImg/Ess-Workshop.jpeg" : "Data Sciences Workshop, Essex, UK - 2015"
+  - "/img/BigImg/Grad-All.jpg" : "Math Graduates, University of Essex, UK - 2016"
+  - "/img/BigImg/Grad-Lake_smile_C.jpg" : "PhD Graduation, Essex, UK - 2016"
+  - "/img/BigImg/Grad-S5_C.jpg" : "PhD Graduation, Essex, UK - 2016"
+  - "/img/BigImg/It-Ts-Coast_C.jpg" : "Trieste, Italy - 2016"
+  - "/img/BigImg/It-Ts-Sunset_C.jpg" : "Sunset in Trieste, Italy - 2016"
+  - "/img/BigImg/Morocco.jpeg" : "Tangier, Morocco - 2015"
+  - "/img/BigImg/Strat-UA.jpeg" : "Occupational Health Conference, Stratford-Upon-Avon, UK - 2016"
+  - "/img/BigImg/Students.jpeg" : "My Undergradute Students, Essex - 2013"
+  - "/img/BigImg/Ve_1522.jpg" : "Venice, Italy - 2016"
+  - "/img/BigImg/Ve_1523.jpg" : "Venice, Italy - 2016"
+  - "/img/BigImg/Ve_1528.jpg" : "Grand Canal, Venice - 2016"
+  - "/img/BigImg/Ve_1578.jpg" : "Grand Canal Bridge, Venice - 2016"
+  - "/img/BigImg/Ve_1579.jpg" : "Grand Canal, Venice - 2016"
+  - "/img/BigImg/Ve_1607.jpg" : "Venice, Italy - 2016"
+  - "/img/BigImg/Ve_1695.jpg" : "South Coast, UK  - 2016"
+  - "/img/BigImg/WeserRiver.jpeg" : "Weser River, Bremen, Germany - 2014"
+  - "/img/BigImg/YSM.jpeg" : "Young Statisticians Conference, London - 2013"
+---
+<div class="alert alert-danger" role="alert">
+This is a <strong>beta version</strong> of my website. The site, in a full shape, should be launched by 1st January 2017. Therefore, I should be in touch with you soon :)
+</div>
+
+[Research Associate in Statistics](http://research-information.bristol.ac.uk/en/persons/osama-mahmoud(678d8565-36f9-4178-9c78-c4371afc9541).html "View academic profile"){:target="_blank"}, University of Bristol, United Kingdom.
+
+  - NIHR Bristol Nutrition Biomedical Research Unit ([BRU](http://www.uhbristol.nhs.uk/research-innovation/our-research/bristol-nutrition-bru/about-us/staff/osama-mahmoud/){:target="_blank"}).
+  - School of Oral and Dental Sciences ([SODS](http://www.bris.ac.uk/dental/people/341427){:target="_blank"}).
+  - School of Social and Community Medicine ([SSCM](http://www.bris.ac.uk/social-community-medicine/people/osama-mahmoud/){:target="_blank"}).
+  
+## Expertise
+
+<p align="justify">
+My expertise lies within Medical Statistics and Bio-statistics domains with extensive practice of:</p>
+ 
+  - Classification and Clustering techniques.
+  - Analysing high dimensional data sets, particularly from functional genomic experiments.
+  - Multilevel Modelling.
+
+<p align="justify">
+My <a href="/Research" title="List of projects">research projects</a> have led to a track record of <a href="/Research/Publications">publications</a> in a number of high quality journals.
+</p>
+
+<p align="justify">
+I have an extensive experience on writing software commands, mainly using R, for newly developed statistical techniques as well as for applying effectively existing methods. I am an author for a number of <a href="https://www.rdocumentation.org/collaborators/name/Osama%20Mahmoud" target="_blank">R packages</a> published on the <a href="https://cran.r-project.org/" target="_blank" title="Comprehensive R Archive Network">CRAN</a>. 
+</p>
+
+<p align="justify">
+Furthermore, I am running a number of statistical <a href="/RCourses" title="Details on R courses">courses using R</a> at several locations across Europe. I do deliver courses on-sites as well. If you are representing an institution interested in finding out more details, please feel free to contact me.
+</p>
+
+## Research Interests
+
+<p align="justify">
+My research interests are diverse covering a range of methodological as well as applied statistical areas.
+</p>
+
+A brief list of my research interests includes:
+
+  - Medical Statistics.
+  - Machine Learning Techniques.
+  - Statistical Modelling.
+  - Statistical Methods for High Throughput Data Sets.
+  - Statistics for Public Health.
+  - Genetic Epidemiology.

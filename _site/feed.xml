@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dr. Osama Mahmoud</title>
+    <description>Statistician with a PhD in Biostatistics, a MSc in Applied Statistics. An expert in Medical Statistic applications with an extensive programming skills, mainly using R.</description>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>An Evaluation of Wellpoint Health Kiosk</title>
+        <description>
+          A Pilot Study - 
+          Health screening in work has become a key issue in improving employee performance and reducing the risk of healthcare costs. Electronic kiosks, as automated tools for occupational health check, can be set up in a workplace to monitor employee well-being by providing health related information. Wellpoint have developed a range...
+        </description>
+        <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2016-11-01-Wellpoint/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016-11-01-Wellpoint/</guid>
+        
+		  
+		    <category>Health screening</category>
+		  
+		    <category>Occupational health</category>
+		  
+		    <category>Ongoing-projects</category>
+		  
+		
+		
+		  
+		
+      </item>
+    
+      <item>
+        <title>Math symboles</title>
+        <description>
+          
+          The gamma funcion Γ is a special function in mathematical analysis. For complex z in the right half plane, we define \begin{equation} \Gamma(z) := \int_{0}^{\infty}t^{z-1}e^{-t}dt. \label{eq1} \end{equation} It turns out that Γ is holomorphic and satisfies Γ(z + 1)=z**Γ(z) for all z with Re z &amp;gt; 0. This is just an inline equation X + Y = 2....
+        </description>
+        <pubDate>Sat, 20 Aug 2016 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2016-08-20-my-math/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016-08-20-my-math/</guid>
+        
+		  
+		    <category>math</category>
+		  
+		    <category>symboles</category>
+		  
+		    <category>Ongoing-projects</category>
+		  
+		
+		
+		  
+		
+      </item>
+    
+      <item>
+        <title>Test markdown</title>
+        <description>
+          Each post also has a subtitle - 
+          You can write regular markdown here and Jekyll will automatically convert it to a nice webpage. I strongly encourage you to take 5 minutes to learn how to write in markdown - it’ll teach you how to transform regular text into bold/italics/headings/tables/etc. Here is some bold text Here is a...
+        </description>
+        <pubDate>Fri, 20 Feb 2015 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2015-02-20-test-markdown/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015-02-20-test-markdown/</guid>
+        
+		  
+		
+		
+		  
+		
+      </item>
+    
+  </channel>
+</rss>
