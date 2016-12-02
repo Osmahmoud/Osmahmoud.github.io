@@ -1,0 +1,7 @@
+# To update bundle (frequently recommended)
+bundle update
+
+# To build your site locally using jekyll
+# Locate to your site folder (Osmahmoud.github.io) and then run:
+bundle exec jekyll build --destination <destination folder>
+# e.g.: bundle exec jekyll build --destination /media/PhD/Github/Jekyll_destination --watch
