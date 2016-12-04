@@ -848,8 +848,3 @@ pre code {
     margin-bottom: 7px;
   }
 }
-
-/* --- Box around text --- */
-.boxed {
-  border: 1px solid green ;
-} 
