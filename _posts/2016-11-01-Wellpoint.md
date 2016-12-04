@@ -25,9 +25,14 @@ For this pilot study, one Wellpoint kiosk was placed in the University Hospitals
 
 ## Dissemination of Project Outputs
 <p align="justify">
-Some aspects of the analysis and results of this study were presented in a poster session at the Society and Faculty of Occupational Medicine Annual Scientific Meeting, 27th-30th June 2016, Stratford Upon Avon, UK.
+Some aspects of the analysis and results of the study were presented in a poster session at the Society and Faculty of Occupational Medicine Annual Scientific Meeting, 27th-30th June 2016, Stratford Upon Avon, UK.
 </p>
 
-You can view the related published [news of the Univerity of Bristol Nutrition BRU on the project from here](http://www.uhbristol.nhs.uk/research-innovation/our-research/bristol-nutrition-bru/news/latest-news/osama-mahmoud-present-at-the-society-and-faculty-of-occupational-medicine/){:target="_blank"}.
-
+<align="justify">
 **Mahmoud O**, Leary S, Marshall V, Kazi A, Hamilton-Shield J: [The Role of Wellpoint Health Kiosks: A Service Evaluation Study](http://som-asm.org.uk/Programme_SOM_ASM.asp){:target="_blank"}. *The Annual Scientific Meeting of the Society of Occupational Medicine, ASMSOM 2016*. London, UK, 27--30 June 2016.
+</p>
+
+<p align="justify">
+You can view the related published [news of the Univerity of Bristol Nutrition BRU on the project from here](http://www.uhbristol.nhs.uk/research-innovation/our-research/bristol-nutrition-bru/news/latest-news/osama-mahmoud-present-at-the-society-and-faculty-of-occupational-medicine/){:target="_blank"}.
+</p>
+
