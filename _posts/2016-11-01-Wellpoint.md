@@ -37,7 +37,7 @@ Some aspects of the analysis and results of the study were presented in a poster
 </p>
 
 <p align="justify">
-<strong>The full describtion of the study and its detailed findings were written in a journal paper paper and submitted for publication:</strong>
+<strong>The full describtion of the study and its detailed findings were written in a journal paper and submitted for publication:</strong>
 <br>
 <br>
 <strong>Mahmoud O</strong>, Leary S, Marshall V, Kazi A, Hamilton-Shield J: An Evaluation of Wellpoint Health Kiosks: A Pilot Study [<em>Submitted for publication</em>].
