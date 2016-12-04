@@ -45,7 +45,7 @@ bigimg: /img/pages/ThomasF_RareLib.jpg
 ## Poster Sessions
 --------------------
 
-1.  **Mahmoud O**, Leary S, Marshall V, Kazi A, Hamilton-Shield J: [The Role of Wellpoint Health Kiosks: A Service Evaluation Study](http://som-asm.org.uk/Programme_SOM_ASM.asp){:target="_blank"}. *The Annual Scientific Meeting of the Society of Occupational Medicine, ASMSOM 2016*. London, UK, 27--30 June 2016.
+1.  </p>
 2.  **Mahmoud O**, Harrison A, Metodiev M, Lausen B: Proportional overlapping scores for gene selection using proteomics and microarray data. [*Young Statisticians Meeting, YSM 2013*](http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/naturalsciences/mathematics/eventssummary/event_10-1-2013-16-47-30){:target="_blank"}. Imperial College London, United Kingdom, 4--5 July 2013.
 
 ## Book Chapters
