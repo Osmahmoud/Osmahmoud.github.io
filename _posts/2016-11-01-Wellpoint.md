@@ -14,7 +14,7 @@ Health screening in work has become a key issue in improving employee performanc
 The kiosks record physical measures, e.g. body mass index (BMI), body fat content, blood pressure and heart rate, and can include specific questions, for instance, relating to medical history. These inputs along-with some demographic information; e.g. age, sex, ethnicity and post-code, can be used to estimate a user's risk of having a cardiovascular event (i.e., heart attack or stroke) over the next ten years (known as the QRISK score).
 </p>
 
-## Project Objectives
+## Study Objectives
 <p align="justify">
 For this pilot study, one Wellpoint kiosk was placed in the University Hospitals Bristol Education and Research Centre, and another in Leicester Diabetes Centre from 16th October 2014 to 10th March 2015. After receiving outputs, participants were asked to complete a short questionnaire on intention to change behavior e.g., regarding physical activity, eating, smoking habits and weight management.
 </p>
@@ -24,11 +24,14 @@ For this pilot study, one Wellpoint kiosk was placed in the University Hospitals
 </p>
 
 ## Research Team
-The research team of the study consisting of: Dr. Osama Mahmoud; Dr. Sam Leary; Dr. Vanessa Marshall; Prof. Julian Hamilton-Shield. This is a joint project with NIHR Leicester-Loughborough Diet, Lifestyle and Physical Activity BRU.
+<p align="justify">
+The research team of the study consisting of: <strong>Dr. Osama Mahmoud</strong>; <strong>Dr. Sam Leary</strong>; <strong>Dr. Vanessa Marshall</strong>; <strong>Prof. Julian Hamilton-Shield</strong>. This is a joint project with NIHR Leicester-Loughborough Diet, Lifestyle and Physical Activity BRU.
+</p>
 
 ## Dissemination of Project Outputs
 <p align="justify">
 Some aspects of the analysis and results of the study were presented in a poster session at the Society and Faculty of Occupational Medicine Annual Scientific Meeting, 27th-30th June 2016, Stratford Upon Avon, UK. The title of the poster was addressed as:
+<br>
 <br>
 <strong>Mahmoud O</strong>, Leary S, Marshall V, Kazi A, Hamilton-Shield J: <a href="http://som-asm.org.uk/Programme_SOM_ASM.asp" target="_blank">The Role of Wellpoint Health Kiosks: A Service Evaluation Study</a>. <em>The Annual Scientific Meeting of the Society of Occupational Medicine, ASMSOM 2016</em>. London, UK, 27--30 June 2016.
 </p>
@@ -36,9 +39,9 @@ Some aspects of the analysis and results of the study were presented in a poster
 <p align="justify">
 <strong>The full describtion of the study and its detailed findings were written in a journal paper paper and submitted for publication:</strong>
 <br>
-<strong>Mahmoud O</strong>, Leary S, Marshall V, Kazi A, Hamilton-Shield J: An Evaluation of Wellpoint Health Kiosks: A Pilot Study [<em>SUBMITTED FOR PUBLICATION</em>].
+<br>
+<strong>Mahmoud O</strong>, Leary S, Marshall V, Kazi A, Hamilton-Shield J: An Evaluation of Wellpoint Health Kiosks: A Pilot Study [<em>Submitted for publication</em>].
 </p>
-
 
 ## Project News
 <p align="justify">
