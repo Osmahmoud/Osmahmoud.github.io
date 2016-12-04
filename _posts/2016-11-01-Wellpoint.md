@@ -33,7 +33,7 @@ The research team of the study consisting of: <strong>Dr. Osama Mahmoud</strong>
 Some aspects of the analysis and results of the study were presented in a poster session at the Society and Faculty of Occupational Medicine Annual Scientific Meeting, 27th-30th June 2016, Stratford Upon Avon, UK. The title of the poster was addressed as:
 <br>
 <br>
-<strong>Mahmoud O</strong>, Leary S, Marshall V, Kazi A, Hamilton-Shield J: <a href="http://som-asm.org.uk/Programme_SOM_ASM.asp" target="_blank">The Role of Wellpoint Health Kiosks: A Service Evaluation Study</a>. <em>The Annual Scientific Meeting of the Society of Occupational Medicine, ASMSOM 2016</em>. London, UK, 27--30 June 2016.
+<strong>Mahmoud O</strong>, Leary S, Marshall V, Kazi A, Hamilton-Shield J: <a href="http://som-asm.org.uk/Programme_SOM_ASM.asp" target="_blank">The Role of Wellpoint Health Kiosks: A Service Evaluation Study</a>. <em>The Annual Scientific Meeting of the Society of Occupational Medicine, ASMSOM 2016</em>. London, UK, 27-30 June 2016.
 </p>
 
 <p align="justify">
