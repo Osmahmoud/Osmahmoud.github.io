@@ -3,7 +3,7 @@ layout: page
 title: "Research"
 subtitle: "Publications"
 css: "/css/index.css"
-bigimg: /img/pages/ThomasF_RareLib.jpg
+bigimg: /img/pages/Publications.jpg
 ---
 <div class="list-filters">
   <a href="/Research" class="list-filter">All Projects</a>
@@ -15,13 +15,12 @@ bigimg: /img/pages/ThomasF_RareLib.jpg
 --------------------
 
 1. **Mahmoud O**, Leary S, Marshall V, Kazi A, Hamilton-Shield J: An Evaluation of Wellpoint Health Kiosks: A Pilot Study [*Submitted for publication*].
-
-1.  Gul A, Perperoglou A, Khan Z, **Mahmoud O**, Miftahuddin M, Adler W, Lausen B: [Ensemble of a Subset of kNN Classifiers](http://link.springer.com/article/10.1007/s11634-015-0227-5){:target="_blank"}. *Advances in Data Analysis and Classification*, 2016, 1--14.
-2.  **Mahmoud O**, Harrison A, Gul A, Khan Z, Metodiev M, Lausen B: [Minimizing Redundancy among Genes Selected Based on the Overlapping Analysis](http://link.springer.com/chapter/10.1007/978-3-319-25226-1_24){:target="_blank"}. In: *Wilhelm, A., Kestler, A. (eds.) Analysis of Large and Complex Data, pp. 275--285*, Springer 2016.
-3.  Gul A, Khan Z, **Mahmoud O**, Miftahuddin M, Adler W, Perperoglou A, Lausen B: [Ensemble of $k$-nearest neighbour classifiers for class membership probability estimation](http://link.springer.com/chapter/10.1007/978-3-319-25226-1_35){:target="_blank"}. In: *Wilhelm, A., Kestler, A. (eds.) Analysis of Large and Complex Data, pp. 411--421*, Springer 2016.
-4.  Khan Z, Gul A, **Mahmoud O**, Miftahuddin M, Perperoglou A, Adler W, Lausen B: [An Ensemble of Optimal Trees for Class Membership Probability Estimation](http://link.springer.com/chapter/10.1007/978-3-319-25226-1_34){:target="_blank"}. In: *Wilhelm, A., Kestler, A. (eds.) Analysis of Large and Complex Data, pp. 395--409*, Springer 2016.
-5.  **Mahmoud O**, Harrison A, Perperoglou A, Gul A, Khan Z, Metodiev M, Lausen B: [A feature selection method for classification within functional genomics experiments based on the proportional overlapping score](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-15-274){:target="_blank"}. *BMC Bioinformatics* 2014, **15**:274.
-6.  Ahmed E, El-shair S, **Mahmoud O**: E-optimal design for detecting the main effects in $2^k$-factorial paired comparison experiments with full profiles. *Proceedings of the 43rd Annual Conference on Statistics, Computer Sciences and Operations Research*. ISSR, Cairo University, 2008, Cairo, Egypt.
+2.  Gul A, Perperoglou A, Khan Z, **Mahmoud O**, Miftahuddin M, Adler W, Lausen B: [Ensemble of a Subset of kNN Classifiers](http://link.springer.com/article/10.1007/s11634-015-0227-5){:target="_blank"}. *Advances in Data Analysis and Classification*, 2016, 1--14.
+3.  **Mahmoud O**, Harrison A, Gul A, Khan Z, Metodiev M, Lausen B: [Minimizing Redundancy among Genes Selected Based on the Overlapping Analysis](http://link.springer.com/chapter/10.1007/978-3-319-25226-1_24){:target="_blank"}. In: *Wilhelm, A., Kestler, A. (eds.) Analysis of Large and Complex Data, pp. 275--285*, Springer 2016.
+4.  Gul A, Khan Z, **Mahmoud O**, Miftahuddin M, Adler W, Perperoglou A, Lausen B: [Ensemble of $k$-nearest neighbour classifiers for class membership probability estimation](http://link.springer.com/chapter/10.1007/978-3-319-25226-1_35){:target="_blank"}. In: *Wilhelm, A., Kestler, A. (eds.) Analysis of Large and Complex Data, pp. 411--421*, Springer 2016.
+5.  Khan Z, Gul A, **Mahmoud O**, Miftahuddin M, Perperoglou A, Adler W, Lausen B: [An Ensemble of Optimal Trees for Class Membership Probability Estimation](http://link.springer.com/chapter/10.1007/978-3-319-25226-1_34){:target="_blank"}. In: *Wilhelm, A., Kestler, A. (eds.) Analysis of Large and Complex Data, pp. 395--409*, Springer 2016.
+6.  **Mahmoud O**, Harrison A, Perperoglou A, Gul A, Khan Z, Metodiev M, Lausen B: [A feature selection method for classification within functional genomics experiments based on the proportional overlapping score](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-15-274){:target="_blank"}. *BMC Bioinformatics* 2014, **15**:274.
+7.  Ahmed E, El-shair S, **Mahmoud O**: E-optimal design for detecting the main effects in $2^k$-factorial paired comparison experiments with full profiles. *Proceedings of the 43rd Annual Conference on Statistics, Computer Sciences and Operations Research*. ISSR, Cairo University, 2008, Cairo, Egypt.
 
 
 ## Conference Presentations
@@ -46,8 +45,7 @@ bigimg: /img/pages/ThomasF_RareLib.jpg
 
 ## Poster Sessions
 --------------------
-
-1.  </p>
+1.  **Mahmoud O**, Leary S, Marshall V, Kazi A, Hamilton-Shield J: [The Role of Wellpoint Health Kiosks: A Service Evaluation Study](http://som-asm.org.uk/Programme_SOM_ASM.asp){:target="_blank"}. *The Annual Scientific Meeting of the Society of Occupational Medicine, ASMSOM 2016*. London, UK, 27-30 June 2016.
 2.  **Mahmoud O**, Harrison A, Metodiev M, Lausen B: Proportional overlapping scores for gene selection using proteomics and microarray data. [*Young Statisticians Meeting, YSM 2013*](http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/naturalsciences/mathematics/eventssummary/event_10-1-2013-16-47-30){:target="_blank"}. Imperial College London, United Kingdom, 4--5 July 2013.
 
 ## Book Chapters
