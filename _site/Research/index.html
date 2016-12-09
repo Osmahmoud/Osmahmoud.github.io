@@ -1,0 +1,560 @@
+<!DOCTYPE html>
+<html lang="en">
+  <!-- Beautiful Jekyll | MIT license | Copyright Dean Attali 2016 -->
+  <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+  <link rel="icon" href="/img/Icons/EgyptIcon.ico">
+  
+  <!-- uncomment the following scripts to support math equations and symboles -->
+  <script type="text/x-mathjax-config">MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});</script>
+  <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  <script type="text/x-mathjax-config">MathJax.Hub.Config({TeX: { equationNumbers: { autoNumber: "AMS" } }});</script>
+  
+  
+  <title>Research</title>
+  
+  
+  <!--
+  <title>Research</title>
+  -->
+  <meta name="author" content="Osama Mahmoud" />
+
+  
+  
+  <meta name="keywords" content="rstats,r,shiny,knitr,statistics,alspac,ccuk,sscm,bristol,statistical modelling,classification,clustering,gene expression">
+
+  <link rel="alternate" type="application/rss+xml" title="Dr. Osama Mahmoud - Statistician with a PhD in Biostatistics, a MSc in Applied Statistics. An expert in Medical Statistic applications with an extensive programming skills, mainly using R." href="/feed.xml" />
+
+  
+    
+      <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css" />
+    
+  
+
+  
+    
+      <link rel="stylesheet" href="/css/bootstrap.min.css" />
+    
+      <link rel="stylesheet" href="/css/bootstrap-social.css" />
+    
+      <link rel="stylesheet" href="/css/academicons.css" />
+    
+      <link rel="stylesheet" href="/css/main.css" />
+    
+  
+
+  
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
+    
+  
+
+  
+
+  
+    
+      <link rel="stylesheet" href="/css/index.css" />
+    
+  
+
+  
+
+    <!-- Facebook OpenGraph tags -->
+  
+
+  
+  <meta property="og:title" content="Research" />
+  
+
+   
+  <meta property="og:description" content="All Projects Ongoing Projects Publications {% for post in paginator.posts %} {{ post.title }} {% if post.subtitle %} {{ post.subtitle }} {% endif %} Posted on {{ post.date | date: &quot;%B %-d, %Y&quot; }} {{ post.excerpt }} [Read&amp;nbsp;More] {% if post.tags.size &gt; 0 %} Tags: {% if site.link-tags %} {%...">
+  
+
+
+  <meta property="og:type" content="website" />
+
+  
+  <meta property="og:url" content="http://localhost:4000/Research/" />
+  <link rel="canonical" href="http://localhost:4000/Research/" />
+  
+
+  
+  <meta property="og:image" content="http://localhost:4000/img/Osama-Avatar.jpeg" />
+  
+  
+
+  <!-- Twitter summary cards -->
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@DrOsmahmoud" />
+  <meta name="twitter:creator" content="@DrOsmahmoud" />
+
+  
+  <meta name="twitter:title" content="Research" />
+  
+
+  
+  <meta name="twitter:description" content="All Projects Ongoing Projects Publications {% for post in paginator.posts %} {{ post.title }} {% if post.subtitle %} {{ post.subtitle }} {% endif %} Posted on {{ post.date | date: &quot;%B %-d, %Y&quot; }} {{ post.excerpt }} [Read&amp;nbsp;More] {% if post.tags.size &gt; 0 %} Tags: {% if site.link-tags %} {%...">
+  
+
+  
+  <meta name="twitter:image" content="http://localhost:4000/img/Osama-Avatar.jpeg" />
+  
+
+</head>
+
+
+  <body>
+  
+    <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="http://localhost:4000">Dr. Osama Mahmoud</a>
+    </div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+      
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="/Research">Research</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="/">Teaching</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="/">R Courses</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="/aboutme">About Me</a>
+
+          </li>
+        
+        
+        
+        
+		<li>
+		  <a href="/search" class="nav-search-link" title="Search">
+		    <span class="fa fa-search nav-search-icon"></span>
+			<span class="nav-search-text">Search</span>
+		  </a>
+		</li>
+		
+      </ul>
+    </div>
+
+	
+	<div class="avatar-container">
+	  <div class="avatar-img-border">
+	    <a href="http://localhost:4000 ">
+	      <img class="avatar-img" src="/img/Osama-Avatar.jpeg" />
+		</a>
+	  </div>
+	</div>
+	
+
+  </div>
+</nav>
+
+
+    <!-- TODO this file has become a mess, refactor it -->
+
+
+
+
+  <div id="header-big-imgs" data-num-img=1
+    
+	  
+	  
+	    
+		  data-img-src-1="/img/path.jpg"
+		
+	  
+    
+  ></div>
+
+
+<header class="header-section has-img">
+
+<div class="big-img intro-header">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <div class="page-heading">
+          <h1>Research</h1>
+		  
+		  
+		  
+        </div>
+      </div>
+    </div>
+  </div>
+  <span class='img-desc'></span>
+</div>
+
+<div class="intro-header no-img">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <div class="page-heading">
+          <h1>Research</h1>
+		  
+		  
+		  
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</header>
+
+
+
+
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <div class="list-filters">
+  <span class="list-filter filter-selected">All Projects</span>
+  <a href="/Research/Ongoing-projects" class="list-filter">Ongoing Projects</a>
+  <a href="/Research/Publications" class="list-filter">Publications</a>
+</div>
+
+<div class="posts-list">
+  
+  <article class="post-preview">
+    <a href="/2016-12-09-CCUK/">
+	  <h2 class="post-title">Cleft Care UK</h2>
+
+	  
+    </a>
+
+    <p class="post-meta">
+      Posted on December 9, 2016
+    </p>
+
+    <div class="post-entry">
+      <p align="justify">
+The <strong>C</strong>left <strong>C</strong>are <strong>UK</strong> (CCUK) is a cross sectional survey of five year old children born with unilateral cleft lip and palate. It was carried out 15 years after an initial survey commissioned by the <a href="https://www.ncbi.nlm.nih.gov/pubmed/9547971" target="_blank">Clinical Standards Advisory Group (CSAG)</a> led to government recommendations on centralisation. CCUK was a multi-centre survey recruited children born between 1st April 2005 and 31st March 2007 in cleft centre audit clinics. Three hundreds fifty-nine eligible children were identified and 268 were recruited to the study.
+</p>
+
+
+      <a href="/2016-12-09-CCUK/" class="post-read-more">[Read&nbsp;More]</a>
+    </div>
+
+    
+    <div class="blog-tags">
+      Tags:
+      
+      
+      <a href="/tag/Multilevel-modelling">Multilevel-modelling</a>
+      
+      <a href="/tag/Children-craniofacial">Children-craniofacial</a>
+      
+      <a href="/tag/Ongoing">Ongoing</a>
+      
+      
+    </div>
+    
+
+   </article>
+  
+  <article class="post-preview">
+    <a href="/2016-11-01-Wellpoint/">
+	  <h2 class="post-title">An Evaluation of Wellpoint Health Kiosk</h2>
+
+	  
+	  <h3 class="post-subtitle">
+	    A Pilot Study
+	  </h3>
+	  
+    </a>
+
+    <p class="post-meta">
+      Posted on November 1, 2016
+    </p>
+
+    <div class="post-entry">
+      <p align="justify">
+Health screening in work has become a key issue in improving employee performance and reducing the risk of healthcare costs. Electronic kiosks, as automated tools for occupational health check, can be set up in a workplace to monitor employee well-being by providing health related information. Wellpoint have developed a range of health kiosks and the UK Department of Health, local UK councils as well as NHS have deployed many of them at their borough for members of staff and public to use. 
+</p>
+
+
+      <a href="/2016-11-01-Wellpoint/" class="post-read-more">[Read&nbsp;More]</a>
+    </div>
+
+    
+    <div class="blog-tags">
+      Tags:
+      
+      
+      <a href="/tag/Public-health">Public-health</a>
+      
+      <a href="/tag/Ongoing">Ongoing</a>
+      
+      
+    </div>
+    
+
+   </article>
+  
+  <article class="post-preview">
+    <a href="/2016-08-20-my-math/">
+	  <h2 class="post-title">Math symboles</h2>
+
+	  
+    </a>
+
+    <p class="post-meta">
+      Posted on August 20, 2016
+    </p>
+
+    <div class="post-entry">
+      <p>The gamma funcion <em>Γ</em> is a special function in mathematical analysis. For complex <em>z</em> in the right half plane, we define
+\begin{equation}
+\Gamma(z) := \int_{0}^{\infty}t^{z-1}e^{-t}dt.
+\label{eq1}
+\end{equation}
+It turns out that <em>Γ</em> is holomorphic and satisfies <em>Γ</em>(<em>z</em> + 1)=<em>z**Γ</em>(<em>z</em>) for all <em>z</em> with Re <em>z</em> &gt; 0.</p>
+
+
+      <a href="/2016-08-20-my-math/" class="post-read-more">[Read&nbsp;More]</a>
+    </div>
+
+    
+    <div class="blog-tags">
+      Tags:
+      
+      
+      <a href="/tag/math">math</a>
+      
+      <a href="/tag/symboles">symboles</a>
+      
+      <a href="/tag/Ongoing">Ongoing</a>
+      
+      
+    </div>
+    
+
+   </article>
+  
+  <article class="post-preview">
+    <a href="/2015-02-20-test-markdown/">
+	  <h2 class="post-title">Test markdown</h2>
+
+	  
+	  <h3 class="post-subtitle">
+	    Each post also has a subtitle
+	  </h3>
+	  
+    </a>
+
+    <p class="post-meta">
+      Posted on February 20, 2015
+    </p>
+
+    <div class="post-entry">
+      <p>You can write regular <a href="http://markdowntutorial.com/">markdown</a> here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to <a href="http://markdowntutorial.com/">take 5 minutes to learn how to write in markdown</a> - it’ll teach you how to transform regular text into bold/italics/headings/tables/etc.</p>
+
+
+      <a href="/2015-02-20-test-markdown/" class="post-read-more">[Read&nbsp;More]</a>
+    </div>
+
+    
+
+   </article>
+  
+</div>
+
+
+
+	    
+    </div>
+  </div>
+</div>
+
+
+    <!-- Amended by Osama Mahmoud - to include 'academicons' along-with 'Font Awesome' -->
+<footer>
+  <div class="container beautiful-jekyll-footer">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links">
+          
+          <li>
+            <a href="https://www.facebook.com/Dr.Osama.Stat" title="Facebook">
+              <i class="fa fa-facebook-square fa-3x"></i>
+            </a>
+          </li>
+          
+          
+          <li>
+            <a href="https://twitter.com/DrOsmahmoud" title="Twitter">
+                <i class="fa fa-twitter-square fa-3x"></i>
+            </a>
+          </li>
+          
+          
+          <li>
+            <a href="https://www.researchgate.net/profile/Osama_Mahmoud7" title="Research Gate">
+              <i class="ai ai-researchgate-square ai-3x"></i>
+            </a>
+          </li>
+          
+          
+          <li>
+            <a href="https://scholar.google.co.uk/citations?user=JrPrJEoAAAAJ&hl=en" title="Google Scholar">
+              <i class="ai ai-google-scholar-square ai-3x"></i>
+            </a>
+          </li>
+          
+          
+          <li>
+            <a href="mailto:o.mahmoud@bristol.ac.uk?subject=Hello via osmahmoud.com" title="Email me">
+              <i class="fa fa-envelope-square fa-3x"></i>
+            </a>
+          </li>
+          
+          
+          <li>
+            <a href="https://github.com/Osmahmoud" title="GitHub">
+              <i class="fa fa-github-square fa-3x"></i>
+            </a>
+          </li>
+          
+          
+          
+          
+          
+	        
+		      
+          
+          
+          
+		  
+        </ul>
+        <p class="copyright text-muted">
+		  &copy; Osama Mahmoud
+		  &nbsp;&bull;&nbsp;
+		  2016
+		  
+		  
+          &nbsp;&bull;&nbsp;
+          <a href="mailto:o.mahmoud@bristol.ac.uk?subject=Hello via osmahmoud.com">o.mahmoud@bristol.ac.uk</a>
+          
+
+		  
+		  &nbsp;&bull;&nbsp;
+		  <a href="http://localhost:4000">HOME</a>
+		  
+	    </p>
+	        <!-- Please don't remove this, keep my open source work credited :) -->
+		<p class="theme-by text-muted">
+		  Theme by beautiful-jekyll</a>
+		</p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  
+    
+
+
+
+
+
+
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+      <script>
+      	if (typeof jQuery == 'undefined') {
+      	  document.write('<script src="/js/jquery-1.11.2.min.js"></scr' + 'ipt>');
+      	}
+      </script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+	<script src="/js/bootstrap.min.js"></script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+	<script src="/js/main.js"></script>
+    
+  
+
+
+
+	<!-- Google Analytics -->
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+		ga('create', 'UA-86932924-1', 'auto');
+		ga('send', 'pageview');
+	</script>
+	<!-- End Google Analytics -->
+
+
+    
+     
+      <!-- AddThis plugin (floating social media sharing buttons on the left of each post) -->
+      <!-- Go to www.addthis.com/dashboard to customize your tools -->
+      <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-582059423c536df0"></script>
+    
+  
+  </body>
+</html>
