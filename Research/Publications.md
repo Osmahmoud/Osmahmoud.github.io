@@ -13,7 +13,7 @@ bigimg: /img/pages/Publications.jpg
 
 ## Peer Reviewed Papers
 --------------------
-
+1. Candler T, **Mahmoud O**, Edge J, Hamilton-Shield J: Hypercholesterolaemia screening in Type 1 Diabetes – a difference of opinion [*Submitted for publication*].
 1. **Mahmoud O**, Leary S, Marshall V, Kazi A, Hamilton-Shield J: An Evaluation of Wellpoint Health Kiosks: A Pilot Study [*Submitted for publication*].
 2.  Gul A, Perperoglou A, Khan Z, **Mahmoud O**, Miftahuddin M, Adler W, Lausen B: [Ensemble of a Subset of kNN Classifiers](http://link.springer.com/article/10.1007/s11634-015-0227-5){:target="_blank"}. *Advances in Data Analysis and Classification*, 2016, 1--14.
 3.  **Mahmoud O**, Harrison A, Gul A, Khan Z, Metodiev M, Lausen B: [Minimizing Redundancy among Genes Selected Based on the Overlapping Analysis](http://link.springer.com/chapter/10.1007/978-3-319-25226-1_24){:target="_blank"}. In: *Wilhelm, A., Kestler, A. (eds.) Analysis of Large and Complex Data, pp. 275--285*, Springer 2016.
