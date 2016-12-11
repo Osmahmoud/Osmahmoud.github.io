@@ -2,7 +2,7 @@
 layout: post
 title: Analysis of Quality of Life
 subtitle: Following Acoustic Neuroma Excision
-tags: [Quality-of-Life, Applied-Statistics, Ongoing]
+tags: [Quality-of-Life, Statistical-modelling, Ongoing]
 ---
 <p align="justify">
 Acoustic neuroma is a non-cancerous tumour araising from the eighth cranial nerve (also known as the vestibulocochlear nerve), the nerve which connects the inner ear with the brain and involved in transmitting sound as well as sending balance information from the inner ear to the brain.
@@ -15,12 +15,8 @@ There has been increasing importance in evaluating long-term quality of life out
 
 ## Study Objectives
 <p align="justify">
-We aimed to investigate the association between tumour size and quality of life.
+We aimed to investigate the association between tumour size and quality of life following the acousitic neuroma excision.
 </p>
 
-
-## Research Team
-TBC
-
 ## Dissemination of Project Outputs
-TBI
+Detailed methods used for carrying out the analysis and the findings are reported in a journal paper about to be submitted for publication.
