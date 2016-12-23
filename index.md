@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Osama Mahmoud"
-subtitle: "Research Associate in Statistics / R Expert"
+subtitle: "Senior Research Associate (Research Statistician) / R Expert"
 meta-title: "Osama Mahmoud - Medical Statistician"
 meta-description: "Reasearch Statistician and R developer with a PhD in Biostatistics, a MSc and a Bachelor degrees in Applied Statistics. An expert in classification and clustering techniques, statistical multilevel modelling and data analysis of public health studies"
 bigimg:
@@ -33,11 +33,7 @@ bigimg:
   - "/img/BigImg/WeserRiver.jpeg" : "Weser River, Bremen, Germany - 2014"
   - "/img/BigImg/YSM.jpeg" : "Young Statisticians Conference, London - 2013"
 ---
-<div class="alert alert-danger" role="alert">
-This is a <strong>beta version</strong> of my website. The site, in a full shape, should be launched by 1st January 2017. Therefore, I should be in touch with you soon :)
-</div>
-
-[Research Associate in Statistics](http://research-information.bristol.ac.uk/en/persons/osama-mahmoud(678d8565-36f9-4178-9c78-c4371afc9541).html "View academic profile"){:target="_blank"}, University of Bristol, United Kingdom.
+[Senior Research Associate (Research Statistician)](http://research-information.bristol.ac.uk/en/persons/osama-mahmoud(678d8565-36f9-4178-9c78-c4371afc9541).html "View academic profile"){:target="_blank"}, University of Bristol, United Kingdom.
 
   - NIHR Bristol Nutrition Biomedical Research Unit ([BRU](http://www.uhbristol.nhs.uk/research-innovation/our-research/bristol-nutrition-bru/about-us/staff/osama-mahmoud/){:target="_blank"}).
   - School of Oral and Dental Sciences ([SODS](http://www.bris.ac.uk/dental/people/341427){:target="_blank"}).
@@ -61,7 +57,7 @@ I have an extensive experience on writing software commands, mainly using R, for
 </p>
 
 <p align="justify">
-Furthermore, I am running a number of statistical <a href="/RCourses" title="Details on R courses">courses using R</a> at several locations across Europe. I do deliver courses on-sites as well. If you are representing an institution interested in finding out more details, please feel free to contact me.
+Furthermore, I am running a number of statistical <a href="/RCourses" title="Details on R courses">courses using R</a> at several locations across Europe. I do deliver courses on-sites as well. If you are representing an institution and interested in finding out more details, please feel free to contact me.
 </p>
 
 ## Research Interests
