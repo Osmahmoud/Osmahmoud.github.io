@@ -19,4 +19,11 @@ We aimed to investigate the association between tumour size and quality of life 
 </p>
 
 ## Dissemination of Project Outputs
-Detailed methods used for carrying out the analysis and the findings are reported in a journal paper about to be submitted for publication.
+<p align="justify">
+Detailed methods, analysis and the findings are reported in a journal paper that should be soon submitted for publication:
+<br>
+<ul>
+<li>Mandavia A, Broomfield SJ, Nicholson J, <strong>Mahmoud O</strong>, Ramsden RT:
+Long Term Quality of Life Following Acoustic Neuroma Excision via the Translabyrinthine Approach.</li>
+</ul>
+</p>
