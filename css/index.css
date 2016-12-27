@@ -3,11 +3,11 @@
     color: white;
 }
 
-#myBody p {
+#myBody p.courses {
   font-size: 22px;
 }
 
-#myBody h3 {
+#myBody h3.courses {
   margin-bottom: 20px;
 }
 
