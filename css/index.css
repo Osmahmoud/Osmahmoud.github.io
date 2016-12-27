@@ -1,3 +1,49 @@
+#myBody {
+    background-color: #417934;
+    color: white;
+}
+
+#myBody p {
+  font-size: 22px;
+}
+
+#myBody h3 {
+  margin-bottom: 20px;
+}
+
+#myBody ul.courses {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  margin-bottom: 42px;
+}
+
+#myBody ul.courses li a {
+  border: 1px solid #2B5A1F;
+  margin-top: -1px; /* Prevent double borders */
+  background-color: #2B5A1F;
+  width: 100%;
+  margin-bottom: 18px;
+  padding: 12px;
+  text-decoration: none;
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+  display: block;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 22px;
+}
+
+#myBody ul.courses li a:hover {
+  border: 1px solid #277514;
+  background-color: #277514;
+  color: #EDF735;
+  margin-left: 20px;
+  transition: all 300ms ease;
+  -moz-transition: all 300ms ease;
+  -webkit-transition: all 300ms ease;
+  -o-transition: all 300ms ease;
+}
+
 .header-section.has-img .no-img {
   margin-top: 0;
   background: #FCFCFC;

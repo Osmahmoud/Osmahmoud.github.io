@@ -33,7 +33,7 @@ paginate_path: "Research/page:num/"
 navbar-links:
   Research: "Research"
   Teaching: ""
-  R Courses: ""
+  R Courses: "R-courses"
   About Me: "aboutme"
 nav-search: "search"
 
