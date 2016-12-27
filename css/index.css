@@ -44,6 +44,25 @@
   -o-transition: all 300ms ease;
 }
 
+#myBody ul.course-outline {
+  font-size: 22px;
+  text-align: justify;
+}
+
+#myBody ul.course-outline li {
+  margin-bottom: 14px
+}
+
+
+
+
+
+
+
+
+
+
+
 .header-section.has-img .no-img {
   margin-top: 0;
   background: #FCFCFC;

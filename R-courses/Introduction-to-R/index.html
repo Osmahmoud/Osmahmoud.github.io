@@ -1,0 +1,65 @@
+---
+layout: page
+title:
+css: "/css/index.css"
+---
+<body id="myBody" style="background-color: #904040">
+  
+<button style="font-size:24px; background-color: #4F2F2F; border-color: #161212; font-family: Palatino Linotype, Book Antiqua, Palatino, serif" onclick="window.location.href='/R-courses'">
+  
+  <i class="fa fa-arrow-left"></i> All Courses
+</button>
+  
+  <h1 class="courses">Introduction to R</h1>
+  <p align="justify"; class="courses">
+    This is a one day intensive course on basics and fundamental concepts of R. The course is structured as a set of lecture sessions and computer practicals. It is suitable to a wide range of participants e.g., statisticians, biologists, clinicians and postgraduate students.
+  </p>
+  
+  <h3 class="courses" style="margin-bottom: 40px">The course assumes no prior programming skills.</h3>
+  
+  <h3 class="courses">COURSE OUTLINE</h3>
+  
+  <ul class="course-outline">
+    <li><strong>What is R?: </strong><em>A brief overview of the concepts and features of the R statistical programming environment.</em></li>
+    
+    <li><strong>Help systems in R: </strong><em>A description of how to use different sources of R help.</em></li>
+    
+    <li><strong>Data types: </strong><em>A brief introduction to different data types in R including numeric, complex, character, factor and logical data.</em></li>
+    
+    <li><strong>Data structure: </strong><em>A summary of R’s data structure including vectors, matrices, arrays, data frames and lists.</em></li>
+    
+    <li><strong>Importing data: </strong><em>Describing how to import, edit, save and export data of different formats from R including Excel, SPSS, STATA and SAS data files.</em></li>
+    
+    <li><strong>Data manipulation: </strong><em>A description of how to use logical operators to manipulate data.</em></li>
+    
+    <li><strong>Missing values: </strong><em>Describing how R handles missing values.</em></li>
+    
+    <li><strong>Visualisation: </strong><em>Creating, editing and saving graphics in various formats using R.</em></li>
+  </ul>
+  <br>
+  <h3 class="courses">INSTALLING THE R PACKAGE</h3>
+  
+  <p align="justify"; class="courses">
+    Each course is associated with an R package tailored to combine together the practical sheets with solutions, course notes and training data sets. The R package associated with this course, named 'sscmRintro', can be simply installed by running the following code lines into your R session.
+  </p>
+
+<!-- insert the R code-->
+<div class="language-javascript highlighter-rouge"><pre class="highlight"><code><span class="nx">install</span><span class="p">.</span><span class="nx">packages</span><span class="p">(</span><span class="s2">"drat"</span><span class="p">)</span>
+<span class="nl">drat</span><span class="p">::</span><span class="nx">addRepo</span><span class="p">(</span><span class="s2">"statcourses"</span><span class="p">)</span>
+<span class="nx">install</span><span class="p">.</span><span class="nx">packages</span><span class="p">(</span><span class="s2">"sscmRintro"</span><span class="p">,</span> <span class="nx">type</span><span class="o">=</span><span class="s2">"source"</span><span class="p">)</span>
+</code></pre>
+</div>
+  
+  <p align="justify"; class="courses">
+    The package can then be loaded via:
+  </p>
+  
+  <!-- insert the R code-->
+  <div class="language-javascript highlighter-rouge"><pre class="highlight"><code><span class="nx">library</span><span class="p">(</span><span class="s2">"sscmRintro"</span><span class="p">)</span>
+</code></pre>
+</div>
+  
+  <hr>
+<button style="font-size:24px; background-color: #4F2F2F; border-color: #161212; font-family: Palatino Linotype, Book Antiqua, Palatino, serif" onclick="window.location.href='/R-courses'"><i class="fa fa-arrow-left"></i> All Courses</button>
+
+</body>
