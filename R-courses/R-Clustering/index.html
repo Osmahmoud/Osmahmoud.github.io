@@ -1,0 +1,82 @@
+---
+layout: page
+title:
+css: "/css/index.css"
+---
+<body id="myBody" style="background-color: #904040">
+  
+<button style="font-size:24px; background-color: #4F2F2F; border-color: #161212; font-family: Palatino Linotype, Book Antiqua, Palatino, serif" onclick="window.location.href='/R-courses'">
+  
+  <i class="fa fa-arrow-left"></i> All Courses
+</button>
+  
+  <h1 class="courses">Clustering and classification with applications in R</h1>
+  <p align="justify"; class="courses">
+    This is a one day intensive course on statistical learning techniques. The course is structured as a set of lecture sessions and computer practicals. The main focus is to introduce cluster analysis (unsupervised learning) and classification (supervised learning) approaches. Using R, participants will analyse real as well as example data sets and compute estimates of the misclassification rate, of the area under the receiver-operating characteristic (ROC) and of other relevant measurements. This course might be benfecial for a wide range of participants e.g., statisticians, bioinformaticians, data scientists, engineers and postgraduate students. 
+  </p>
+  
+  <h3 class="courses" style="margin-bottom: -20px">PREREQUISITE</h3>
+  
+  <p align="justify"; class="courses">
+    This course assumes all participants have <strong><u>basic knowledge of R</u></strong>, as covered by the <a href="/R-courses/Introduction-to-R" style="color:#E9F14A">'Introduction to R' course</a> (or equivalent skills). <strong><u>Basic concepts in statistics</u></strong>, in particular correlation and linear regression techniques are also assumed.
+  </p>
+  
+  <h3 class="courses">COURSE OUTLINE</h3>
+  
+  <ul class="course-outline" style="margin-bottom:40px">
+    <li><strong>Multivariate concepts: </strong><em>Introducing basic statistical notions of multivariate analysis, such as covariance, correlation and Euclidean distance.</em></li>
+    
+    <li><strong>Similarity measures: </strong><em>Various measurements of similarity are discussed and applied in R.</em></li>
+    
+    <li><strong>k-means clustering: </strong><em>Concepts of k-means clustering and its visualising solutions are covered.</em></li>
+    
+    <li><strong>Hierarchical clustering: </strong><em>Linkage methods, agglomerative hierarchical clustering and additive trees are presented and applied in R.</em></li>
+    
+    <li><strong>Logistic regression: </strong><em>Introducing logistic regression technique for binary classification problems with R.</em></li>
+    
+     <li><strong>Bayes classifier and LDA:</strong><em>Other classification techniques included the Bayes classifier and linear discriminant analysis are introduced as further examples of statistical learning methods.</em></li>
+    
+    <li><strong>CART & Random forest: </strong><em>Descriping tree-based classifiers and introducing the random forest technique.</em></li>
+    
+    <li><strong>Bootstrap & Cross-validation: </strong><em>Methods for assessing classifiers by estimating missclasification error rates are  Presented and applied in R.</em></li>
+    
+    <li><strong>ROC: </strong><em>Estimating the area under the receiver-operating characteristic (ROC) using R.</em></li>
+  </ul>
+  
+  <h3 class="courses" style="margin-bottom:-20px">PRESENTER</h3>
+  <p align="justify"; class="courses">
+    <a href="/aboutme" target="_blank" style="color:#E9F14A">Dr. Osama Mahmoud</a>, Senior Research Associate (Research Statistician), School of Social and Community Medicine, University of Bristol, UK.
+  </p>
+  <p align="justify"; class="courses">
+    <a href="https://www.essex.ac.uk/maths/staff/profile.aspx?ID=1277" target="_blank" style="color:#E9F14A">Prof. Berthold Lausen</a>, Professor of Statistics and Head of Department of Mathematical Sciences, University of Essex, UK.
+  </p>
+  
+  <h3 class="courses">INSTALLING THE R PACKAGE</h3>
+  
+  <div class="alert alert-danger" role="alert" style="text-align:justify">
+NOTE: The installation of the R package is temporarily unavailable. This issue should be sorted out shortly. Appologize for any inconvenience!
+</div>
+  <p align="justify"; class="courses">
+    Each course is associated with an R package tailored to combine together the practical sheets with solutions, course notes and training data sets. The R package associated with this course, named 'essexBigdata', can be simply installed by running the following code lines into your R session.
+  </p>
+
+<!-- insert the R code-->
+<div class="language-javascript highlighter-rouge"><pre class="highlight"><code><span class="nx">install</span><span class="p">.</span><span class="nx">packages</span><span class="p">(</span><span class="s2">"drat"</span><span class="p">)</span>
+<span class="nl">drat</span><span class="p">::</span><span class="nx">addRepo</span><span class="p">(</span><span class="s2">"statcourses"</span><span class="p">)</span>
+<span class="nx">install</span><span class="p">.</span><span class="nx">packages</span><span class="p">(</span><span class="s2">"essexBigdata"</span><span class="p">,</span> <span class="nx">type</span><span class="o">=</span><span class="s2">"source"</span><span class="p">)</span>
+</code></pre>
+</div>
+  
+  <p align="justify"; class="courses">
+    The package can then be loaded via:
+  </p>
+  
+  <!-- insert the R code-->
+  <div class="language-javascript highlighter-rouge"><pre class="highlight"><code><span class="nx">library</span><span class="p">(</span><span class="s2">"essexBigdata"</span><span class="p">)</span>
+</code></pre>
+</div>
+  
+  <hr>
+<button style="font-size:24px; background-color: #4F2F2F; border-color: #161212; font-family: Palatino Linotype, Book Antiqua, Palatino, serif" onclick="window.location.href='/R-courses'"><i class="fa fa-arrow-left"></i> All Courses</button>
+
+</body>
