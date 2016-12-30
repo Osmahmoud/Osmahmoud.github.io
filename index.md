@@ -57,7 +57,7 @@ I have an extensive experience on writing software commands, mainly using R, for
 </p>
 
 <p align="justify">
-Furthermore, I am running a number of statistical <a href="/R-courses" title="Details on R courses">courses using R</a> at several locations across Europe. I do deliver courses on-sites as well. If you are representing an institution and interested in finding out more details, please feel free to contact me.
+Furthermore, I am running a number of statistical <a href="/R-courses" title="Details on R courses" target="_blank">courses using R</a> at several locations across Europe. I do deliver courses on-sites as well. If you are representing an institution and interested in finding out more details, please feel free to contact me.
 </p>
 
 ## Research Interests
