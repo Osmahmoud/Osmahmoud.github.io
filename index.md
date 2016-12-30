@@ -49,15 +49,15 @@ My expertise lies within Medical Statistics and Bio-statistics domains with exte
   - Multilevel Modelling.
 
 <p align="justify">
-My <a href="/Research" title="List of projects">research projects</a> have led to a track record of <a href="/Research/Publications">publications</a> in a number of high quality journals.
+My <a href="/Research" title="List of projects" target="_blank">research projects</a> have led to a track record of <a href="/Research/Publications" title="List of publications" target="_blank">publications</a> in a number of high quality journals.
 </p>
 
 <p align="justify">
-I have an extensive experience on writing software commands, mainly using R, for newly developed statistical techniques as well as for applying effectively existing methods. I am an author for a number of <a href="https://www.rdocumentation.org/collaborators/name/Osama%20Mahmoud" target="_blank">R packages</a> published on the <a href="https://cran.r-project.org/" target="_blank" title="Comprehensive R Archive Network">CRAN</a>. 
+I have an extensive experience on writing software commands, mainly using R, for newly developed statistical techniques as well as for applying effectively existing methods. I am an author for a number of <a href="https://www.rdocumentation.org/collaborators/name/Osama%20Mahmoud" target="_blank" title="Published packages">R packages</a> published on the <a href="https://cran.r-project.org/" target="_blank" title="Comprehensive R Archive Network">CRAN</a>. 
 </p>
 
 <p align="justify">
-Furthermore, I am running a number of statistical <a href="/RCourses" title="Details on R courses">courses using R</a> at several locations across Europe. I do deliver courses on-sites as well. If you are representing an institution and interested in finding out more details, please feel free to contact me.
+Furthermore, I am running a number of statistical <a href="/R-courses" title="Details on R courses">courses using R</a> at several locations across Europe. I do deliver courses on-sites as well. If you are representing an institution and interested in finding out more details, please feel free to contact me.
 </p>
 
 ## Research Interests
