@@ -32,7 +32,7 @@ paginate_path: "Research/page:num/"
 # List of links in the navigation bar
 navbar-links:
   Research: "Research"
-  Teaching: ""
+  Teaching: "Teaching"
   R Courses: "R-courses"
   About Me: "aboutme"
 nav-search: "search"
