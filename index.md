@@ -36,7 +36,6 @@ bigimg:
 [Senior Research Associate (Research Statistician)](http://research-information.bristol.ac.uk/en/persons/osama-mahmoud(678d8565-36f9-4178-9c78-c4371afc9541).html "View academic profile"){:target="_blank"}, University of Bristol, United Kingdom.
 
   - NIHR Bristol Nutrition Biomedical Research Unit ([BRU](http://www.uhbristol.nhs.uk/research-innovation/our-research/bristol-nutrition-bru/about-us/staff/osama-mahmoud/){:target="_blank"}).
-  - School of Oral and Dental Sciences ([SODS](http://www.bris.ac.uk/dental/people/341427){:target="_blank"}).
   - School of Social and Community Medicine ([SSCM](http://www.bris.ac.uk/social-community-medicine/people/osama-mahmoud/){:target="_blank"}).
   
 ## Expertise
@@ -47,6 +46,7 @@ My expertise lies within Medical Statistics and Bio-statistics domains with exte
   - Classification and Clustering techniques.
   - Analysing high dimensional data sets, particularly from functional genomic experiments.
   - Multilevel Modelling.
+  - Longitudinal analysis.
 
 <p align="justify">
 My <a href="/Research" title="List of projects" target="_blank">research projects</a> have led to a track record of <a href="/Research/Publications" title="List of publications" target="_blank">publications</a> in a number of high quality journals.

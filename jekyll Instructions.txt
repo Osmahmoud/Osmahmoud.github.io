@@ -6,5 +6,8 @@ bundle update
 bundle exec jekyll build --destination <destination folder>
 # e.g.: bundle exec jekyll build --destination /media/PhD/Github/Jekyll_destination --watch
 
+# To build locally and watch
+bundle exec jekyll build --watch
+
 # to preview what the generated site will look like in your browser locally
 bundle exec jekyll serve
