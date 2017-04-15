@@ -68,9 +68,11 @@ My research interests are diverse covering a range of methodological as well as 
 
 A brief list of my research interests includes:
 
-  - Medical Statistics.
-  - Machine Learning Techniques.
-  - Statistical Modelling.
-  - Statistical Methods for High Throughput Data Sets.
+  - Medical statistics.
+  - Bio-statistics.
+  - Analysis of longitudinal data.
+  - Statistical modelling.
+  - Data science.
   - Statistics for Public Health.
   - Genetic Epidemiology.
+  

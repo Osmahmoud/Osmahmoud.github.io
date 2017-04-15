@@ -1,0 +1,32 @@
+First: Install ruby:
+====================
+1- Download Ruby's version from:
+https://www.ruby-lang.org/en/downloads/
+
+(e.g., link for version 2.4.1):
+https://cache.ruby-lang.org/pub/ruby/2.4/ruby-2.4.1.tar.gz
+
+2- unpack a tarball, then just do this:
+
+3- cd to the resulted dir, then do:
+
+$ ./configure --prefix=<DIR>
+
+<DIR> can be /usr/bin
+
+$ make
+$ sudo make install
+
+Second: Install RubyGems
+========================
+1- Download from: https://rubygems.org/pages/download
+2- Unpack into a directory and cd there.
+3- ruby setup.rb
+
+Third: Install Jekyll
+====================
+gem install jekyll bundler
+
+Fourth: Install bundler (optional?! if faced errors)
+====================================================
+sudo apt-get install bundler

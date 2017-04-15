@@ -13,23 +13,41 @@ bigimg: /img/pages/Publications.jpg
 
 ## Peer Reviewed Papers
 --------------------
+
+1. Wills A, **Mahmoud O**, Hall A, Sell D, Smallridge J, Southby L, Toms S, Waylen A, Wren Y, Ness A, Sandy J: Centre level variation of treatment and outcome in 5 year old children with non-syndromic unilateral cleft lip and palate: the Cleft Care UK study. Part 1: methodology and results for dento-facial outcomes [*Submitted for publication*].
+
+1. Hall A, Wills A, **Mahmoud O**, Sell D, Waylen A, Grewal S, Sandy J, Ness A: Centre level variation in outcomes and treatment for otitis media with effusion and hearing loss and the association of hearing loss with developmental outcomes at age 5 and 7 years in children with non-syndromic unilateral cleft lip and palate: the Cleft Care UK study. Part 2 [*Submitted for publication*].
+
+1. Smallridge J, Wills A, **Mahmoud O**, Chong A, Clark V, Collard M, Sandy J, Ness A: Centre level variation in dental treatment and oral health and individual and area level predictors of oral health in 5 year old children with non-syndromic unilateral cleft lip and palate: the Cleft Care UK study. Part 3 [*Submitted for publication*].
+
+1. Sell D, Southby L, Wren Y, Wills A, Hall A, **Mahmoud O**, Waylen A, Sandy J, Ness A: Centre level variation in speech outcome and interventions, and factors associated with poor speech outcomes in 5 year old children with non-syndromic unilateral cleft lip and palate: the Cleft Care UK study. Part 4 [*Submitted for publication*].
+
+1. Waylen A, **Mahmoud O**, Wills A, Sell D, Sandy J, Ness A: Centre level variation in behaviour and the predictors of behaviour in 5 year old children with non-syndromic unilateral cleft lip: the Cleft Care UK study. Part 5 [*Submitted for publication*].
+
+1. Ness A, Wills A, **Mahmoud O**, Hall A, Sell D, Smallridge J, Southby L, Stokes D, Toms S, Waylen A, Wren Y, Sandy J: Centre level variation in treatment and outcomes and predictors of outcomes in 5 year old children with non-syndromic unilateral cleft lip treated within a centralised service: the Cleft Care UK study. Part 6:  summary and implications [*Submitted for publication*].
+
+1. Broomfield S, Mandavia A, Nicholson J, **Mahmoud O**, King A, Rutherford S, Ramsden R: Long Term Quality of Life Following Acoustic Neuroma Excision via the Translabyrinthine Approach [*Submitted for publication*].
+
+1. Candler T, **Mahmoud O**, Lynn R, Majbar A, Barrett T, Hamilton-Shield J: Continuing rise in incidence of Type 2 Diabetes in Children and Young People in the UK and Republic of Ireland
+[*Submitted for publication*].
+
 1. **Mahmoud O**, Leary S, Marshall V, Kazi A, Hamilton-Shield J: An Evaluation of Wellpoint Health Kiosks: A Pilot Study [*Submitted for publication*].
 
 1. Khan Z, Gul A, Perperoglou A, **Mahmoud O**, Miftahuddin M, Adler W, Lausen B: An Ensemble of Optimal Trees for Classification and Regression. [*Submitted for publication*].
 
 1. Candler T, **Mahmoud O**, Edge J, Hamilton-Shield J: [Hypercholesterolaemia screening in Type 1 Diabetes – a difference of opinion](http://onlinelibrary.wiley.com/doi/10.1111/dme.13322/full){:target="_blank"}. *Diabetic Medicine*, 2017.
 
-2.  Gul A, Perperoglou A, Khan Z, **Mahmoud O**, Miftahuddin M, Adler W, Lausen B: [Ensemble of a Subset of kNN Classifiers](http://link.springer.com/article/10.1007/s11634-015-0227-5){:target="_blank"}. *Advances in Data Analysis and Classification*, 2016, 1--14.
+1.  Gul A, Perperoglou A, Khan Z, **Mahmoud O**, Miftahuddin M, Adler W, Lausen B: [Ensemble of a Subset of kNN Classifiers](http://link.springer.com/article/10.1007/s11634-015-0227-5){:target="_blank"}. *Advances in Data Analysis and Classification*, 2016, 1--14.
 
-3.  **Mahmoud O**, Harrison A, Gul A, Khan Z, Metodiev M, Lausen B: [Minimizing Redundancy among Genes Selected Based on the Overlapping Analysis](http://link.springer.com/chapter/10.1007/978-3-319-25226-1_24){:target="_blank"}. In: *Wilhelm, A., Kestler, A. (eds.) Analysis of Large and Complex Data, pp. 275--285*, Springer 2016.
+1.  **Mahmoud O**, Harrison A, Gul A, Khan Z, Metodiev M, Lausen B: [Minimizing Redundancy among Genes Selected Based on the Overlapping Analysis](http://link.springer.com/chapter/10.1007/978-3-319-25226-1_24){:target="_blank"}. In: *Wilhelm, A., Kestler, A. (eds.) Analysis of Large and Complex Data, pp. 275--285*, Springer 2016.
 
-4.  Gul A, Khan Z, **Mahmoud O**, Miftahuddin M, Adler W, Perperoglou A, Lausen B: [Ensemble of $k$-nearest neighbour classifiers for class membership probability estimation](http://link.springer.com/chapter/10.1007/978-3-319-25226-1_35){:target="_blank"}. In: *Wilhelm, A., Kestler, A. (eds.) Analysis of Large and Complex Data, pp. 411--421*, Springer 2016.
+1.  Gul A, Khan Z, **Mahmoud O**, Miftahuddin M, Adler W, Perperoglou A, Lausen B: [Ensemble of $k$-nearest neighbour classifiers for class membership probability estimation](http://link.springer.com/chapter/10.1007/978-3-319-25226-1_35){:target="_blank"}. In: *Wilhelm, A., Kestler, A. (eds.) Analysis of Large and Complex Data, pp. 411--421*, Springer 2016.
 
-5.  Khan Z, Gul A, **Mahmoud O**, Miftahuddin M, Perperoglou A, Adler W, Lausen B: [An Ensemble of Optimal Trees for Class Membership Probability Estimation](http://link.springer.com/chapter/10.1007/978-3-319-25226-1_34){:target="_blank"}. In: *Wilhelm, A., Kestler, A. (eds.) Analysis of Large and Complex Data, pp. 395--409*, Springer 2016.
+1.  Khan Z, Gul A, **Mahmoud O**, Miftahuddin M, Perperoglou A, Adler W, Lausen B: [An Ensemble of Optimal Trees for Class Membership Probability Estimation](http://link.springer.com/chapter/10.1007/978-3-319-25226-1_34){:target="_blank"}. In: *Wilhelm, A., Kestler, A. (eds.) Analysis of Large and Complex Data, pp. 395--409*, Springer 2016.
 
-6.  **Mahmoud O**, Harrison A, Perperoglou A, Gul A, Khan Z, Metodiev M, Lausen B: [A feature selection method for classification within functional genomics experiments based on the proportional overlapping score](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-15-274){:target="_blank"}. *BMC Bioinformatics* 2014, **15**:274.
+1.  **Mahmoud O**, Harrison A, Perperoglou A, Gul A, Khan Z, Metodiev M, Lausen B: [A feature selection method for classification within functional genomics experiments based on the proportional overlapping score](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-15-274){:target="_blank"}. *BMC Bioinformatics* 2014, **15**:274.
 
-7.  Ahmed E, El-shair S, **Mahmoud O**: E-optimal design for detecting the main effects in $2^k$-factorial paired comparison experiments with full profiles. *Proceedings of the 43rd Annual Conference on Statistics, Computer Sciences and Operations Research*. ISSR, Cairo University, 2008, Cairo, Egypt.
+1.  Ahmed E, El-shair S, **Mahmoud O**: E-optimal design for detecting the main effects in $2^k$-factorial paired comparison experiments with full profiles. *Proceedings of the 43rd Annual Conference on Statistics, Computer Sciences and Operations Research*. ISSR, Cairo University, 2008, Cairo, Egypt.
 
 
 ## Conference Presentations
@@ -54,13 +72,15 @@ bigimg: /img/pages/Publications.jpg
 ## Invited Talks
 --------------------
 
-1.  **Mahmoud O**: Title TBC. *Bioinformatics club, Institute of Medical Biometry and Statistics, Medical Center, University of Freiburg*. Freiburg, Germany, 13 February 2017. [Invitation has been received and accepted]
+1.  **Mahmoud O**: Title TBC. *Bioinformatics club, Institute of Medical Biometry and Statistics, Medical Center, University of Freiburg*. Freiburg, Germany, 19 June 2017. [Invitation has been received and accepted]
 
-2.  **Mahmoud O**: [Improving Statistical Learning within Functional Genomic Experiments by means of Feature Selection](http://www.qub.ac.uk/research-centres/media/Media,518014,en.pdf){:target="_blank"}. *All-Ireland Cancer Consortium Conference, AICC 2015*. Belfast, Northern Ireland, 10--13 May 2015.
+2. **Mahmoud O**: Improving Statistical Learning by means of Feature Selection. *Department of Paediatrics, St Mary’s Campus Medical School, Imperial College London*. UK, 13 March 2017.
 
-3.  **Mahmoud O**: Statistical Learning by means of Feature Selection. [*Profusion Data Science Consultancy, Data Science Lab*](https://profusion.com/){:target="_blank"}. London, UK, 25 September 2015.
+3. **Mahmoud O**: [Improving Statistical Learning within Functional Genomic Experiments by means of Feature Selection](http://www.qub.ac.uk/research-centres/media/Media,518014,en.pdf){:target="_blank"}. *All-Ireland Cancer Consortium Conference, AICC 2015*. Belfast, Northern Ireland, 10--13 May 2015.
 
-4.  **Mahmoud O**: D2: Documenting Research Data Using A Novel Package. [*University of Essex, Department of Mathematical Sciences, Postgraduate Event*](https://www.essex.ac.uk/maths/){:target="_blank"}. Colchester, Essex, UK, 12 March 2016.
+4. **Mahmoud O**: Statistical Learning by means of Feature Selection. [*Profusion Data Science Consultancy, Data Science Lab*](https://profusion.com/){:target="_blank"}. London, UK, 25 September 2015.
+
+5. **Mahmoud O**: D2: Documenting Research Data Using A Novel Package. [*University of Essex, Department of Mathematical Sciences, Postgraduate Event*](https://www.essex.ac.uk/maths/){:target="_blank"}. Colchester, Essex, UK, 12 March 2016.
 
 ## Poster Sessions
 --------------------
