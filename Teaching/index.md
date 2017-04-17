@@ -11,7 +11,7 @@ Teaching is a key dimension of my career and is an activity that I have great pa
 
 ## University of Bristol
 <p align="justify">
-Alongside with my current research-based role at the Faculty of Health Sciences, I am engaged in variety  of  teaching  duties including teaching quantitative research methods and applied statistics within medical domain for undergraduate students.
+Alongside my current research-based role at the Faculty of Health Sciences, I am engaged in variety  of  teaching  duties including teaching quantitative research methods and applied statistics within medical domain for undergraduate students.
 </p>
 
 **Modules include:**
