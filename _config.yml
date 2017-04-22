@@ -31,7 +31,7 @@ paginate_path: "Research/page:num/"
 # --- Navigation bar options --- #
 # List of links in the navigation bar
 navbar-links:
-  Research: "Research"
+  Research: "Research/Publications"
   Teaching: "Teaching"
   R Courses: "R-courses"
   About Me: "aboutme"

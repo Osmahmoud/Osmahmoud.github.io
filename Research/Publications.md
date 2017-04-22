@@ -6,9 +6,9 @@ css: "/css/index.css"
 bigimg: /img/pages/Publications.jpg
 ---
 <div class="list-filters">
+<span class="list-filter filter-selected">Publications</span>
   <a href="/Research" class="list-filter">All Projects</a>
   <a href="/Research/Ongoing-projects" class="list-filter">Ongoing Projects</a>
-  <span class="list-filter filter-selected">Publications</span>
 </div>
 
 ## Peer Reviewed Papers
