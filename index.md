@@ -49,7 +49,7 @@ My expertise lies within Medical Statistics and Bio-statistics domains with exte
   - Longitudinal analysis.
 
 <p align="justify">
-My <a href="/Research" title="List of projects" target="_blank">research projects</a> have led to a track record of <a href="/Research/Publications" title="List of publications" target="_blank">publications</a> in a number of high quality journals.
+My <a href="/Research/All-projects" title="List of projects" target="_blank">research projects</a> have led to a track record of <a href="/Research" title="List of publications" target="_blank">publications</a> in a number of high quality journals.
 </p>
 
 <p align="justify">

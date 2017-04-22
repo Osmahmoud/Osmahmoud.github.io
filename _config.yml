@@ -26,12 +26,12 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
-paginate_path: "Research/page:num/"
+paginate_path: "Research/All-projects/page:num/"
 
 # --- Navigation bar options --- #
 # List of links in the navigation bar
 navbar-links:
-  Research: "Research/Publications"
+  Research: "Research"
   Teaching: "Teaching"
   R Courses: "R-courses"
   About Me: "aboutme"
