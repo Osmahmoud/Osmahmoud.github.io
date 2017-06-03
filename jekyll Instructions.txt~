@@ -6,7 +6,7 @@ bundle update
 
 # To build your site locally using jekyll
 bundle exec jekyll build --destination <destination folder>
-# e.g.: bundle exec jekyll build --destination /media/osama/PhD/GitHub/Jekyll_destination --watch
+# e.g.: bundle exec jekyll build --destination /media/osama/PhD/GitHub/Jekyll_destination
 
 # To build locally and watch
 bundle exec jekyll build --watch

@@ -14,17 +14,17 @@ bigimg: /img/pages/Publications.jpg
 ## Peer Reviewed Papers
 --------------------
 
-1. Wills A, **Mahmoud O**, Hall A, Sell D, Smallridge J, Southby L, Toms S, Waylen A, Wren Y, Ness A, Sandy J: Centre level variation of treatment and outcome in 5 year old children with non-syndromic unilateral cleft lip and palate: the Cleft Care UK study. Part 1: methodology and results for dento-facial outcomes [*Submitted for publication*].
+1. Wills A, **Mahmoud O**, Hall A, Sell D, Smallridge J, Southby L, Toms S, Waylen A, Wren Y, Ness A, Sandy J: Centre level variation of treatment and outcome in 5 year old children with non-syndromic unilateral cleft lip and palate: the Cleft Care UK study. Part 1: methodology and results for dento-facial outcomes. *Orthod Craniofac Res. 2017* [To appear].
 
-1. Hall A, Wills A, **Mahmoud O**, Sell D, Waylen A, Grewal S, Sandy J, Ness A: Centre level variation in outcomes and treatment for otitis media with effusion and hearing loss and the association of hearing loss with developmental outcomes at age 5 and 7 years in children with non-syndromic unilateral cleft lip and palate: the Cleft Care UK study. Part 2 [*Submitted for publication*].
+1. Hall A, Wills A, **Mahmoud O**, Sell D, Waylen A, Grewal S, Sandy J, Ness A: Centre level variation in outcomes and treatment for otitis media with effusion and hearing loss and the association of hearing loss with developmental outcomes at age 5 and 7 years in children with non-syndromic unilateral cleft lip and palate: the Cleft Care UK study. Part 2 *Orthod Craniofac Res. 2017* [To appear].
 
-1. Smallridge J, Wills A, **Mahmoud O**, Chong A, Clark V, Collard M, Sandy J, Ness A: Centre level variation in dental treatment and oral health and individual and area level predictors of oral health in 5 year old children with non-syndromic unilateral cleft lip and palate: the Cleft Care UK study. Part 3 [*Submitted for publication*].
+1. Smallridge J, Wills A, **Mahmoud O**, Chong A, Clark V, Collard M, Sandy J, Ness A: Centre level variation in dental treatment and oral health and individual and area level predictors of oral health in 5 year old children with non-syndromic unilateral cleft lip and palate: the Cleft Care UK study. Part 3 *Orthod Craniofac Res. 2017* [To appear].
 
-1. Sell D, Southby L, Wren Y, Wills A, Hall A, **Mahmoud O**, Waylen A, Sandy J, Ness A: Centre level variation in speech outcome and interventions, and factors associated with poor speech outcomes in 5 year old children with non-syndromic unilateral cleft lip and palate: the Cleft Care UK study. Part 4 [*Submitted for publication*].
+1. Sell D, Southby L, Wren Y, Wills A, Hall A, **Mahmoud O**, Waylen A, Sandy J, Ness A: Centre level variation in speech outcome and interventions, and factors associated with poor speech outcomes in 5 year old children with non-syndromic unilateral cleft lip and palate: the Cleft Care UK study. Part 4 *Orthod Craniofac Res. 2017* [To appear].
 
-1. Waylen A, **Mahmoud O**, Wills A, Sell D, Sandy J, Ness A: Centre level variation in behaviour and the predictors of behaviour in 5 year old children with non-syndromic unilateral cleft lip: the Cleft Care UK study. Part 5 [*Submitted for publication*].
+1. Waylen A, **Mahmoud O**, Wills A, Sell D, Sandy J, Ness A: Centre level variation in behaviour and the predictors of behaviour in 5 year old children with non-syndromic unilateral cleft lip: the Cleft Care UK study. Part 5 *Orthod Craniofac Res. 2017* [To appear].
 
-1. Ness A, Wills A, **Mahmoud O**, Hall A, Sell D, Smallridge J, Southby L, Stokes D, Toms S, Waylen A, Wren Y, Sandy J: Centre level variation in treatment and outcomes and predictors of outcomes in 5 year old children with non-syndromic unilateral cleft lip treated within a centralised service: the Cleft Care UK study. Part 6:  summary and implications [*Submitted for publication*].
+1. Ness A, Wills A, **Mahmoud O**, Hall A, Sell D, Smallridge J, Southby L, Stokes D, Toms S, Waylen A, Wren Y, Sandy J: Centre level variation in treatment and outcomes and predictors of outcomes in 5 year old children with non-syndromic unilateral cleft lip treated within a centralised service: the Cleft Care UK study. Part 6:  summary and implications *Orthod Craniofac Res. 2017* [To appear].
 
 1. Broomfield S, Mandavia A, Nicholson J, **Mahmoud O**, King A, Rutherford S, Ramsden R: Long Term Quality of Life Following Acoustic Neuroma Excision via the Translabyrinthine Approach [*Submitted for publication*].
 
@@ -72,7 +72,7 @@ bigimg: /img/pages/Publications.jpg
 ## Invited Talks
 --------------------
 
-1.  **Mahmoud O**: Title TBC. *Bioinformatics club, Institute of Medical Biometry and Statistics, Medical Center, University of Freiburg*. Freiburg, Germany, 19 June 2017. [Invitation has been received and accepted]
+1.  **Mahmoud O**: [Improving Machine Learning from Functional Genomic Data by means of Overlapping Analysis](http://bioinformatik-club.imbi.uni-freiburg.de/node/75){:target="_blank"}. *Institute of Medical Biometry and Statistics, Medical Center*, [*Bioinformatics club, University of Freiburg*](http://bioinformatik-club.imbi.uni-freiburg.de/){:target="_blank"}. Freiburg, Germany, 19 June 2017.
 
 2. **Mahmoud O**: Improving Statistical Learning by means of Feature Selection. *Department of Paediatrics, St Mary’s Campus Medical School, Imperial College London*. UK, 13 March 2017.
 
