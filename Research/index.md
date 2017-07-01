@@ -14,6 +14,8 @@ bigimg: /img/pages/Publications.jpg
 ## Peer Reviewed Papers
 --------------------
 
+1. Broomfield S, Mandavia A, Nicholson J, **Mahmoud O**, King A, Rutherford S, Ramsden R: Long Term Quality of Life Following Acoustic Neuroma Excision via the Translabyrinthine Approach. *Otology Neurotology*, 2017 [*Accepted*].
+
 1. Wills A, **Mahmoud O**, Hall A, Sell D, Smallridge J, Southby L, Toms S, Waylen A, Wren Y, Ness A, Sandy J: [Centre level variation of treatment and outcome in 5 year old children with non-syndromic unilateral cleft lip and palate: the Cleft Care UK study. Part 1: methodology and results for dento-facial outcomes](http://onlinelibrary.wiley.com/doi/10.1111/ocr.12183/full){:target="_blank"}. *Orthod Craniofac Res*, 2017, **20 (S2)**, 1--7.
 
 1. Hall A, Wills A, **Mahmoud O**, Sell D, Waylen A, Grewal S, Sandy J, Ness A: [Centre level variation in outcomes and treatment for otitis media with effusion and hearing loss and the association of hearing loss with developmental outcomes at age 5 and 7 years in children with non-syndromic unilateral cleft lip and palate: the Cleft Care UK study. Part 2](http://onlinelibrary.wiley.com/doi/10.1111/ocr.12184/full){:target="_blank"}. *Orthod Craniofac Res*, 2017, **20 (S2)**, 8--18.
@@ -25,15 +27,6 @@ bigimg: /img/pages/Publications.jpg
 1. Waylen A, **Mahmoud O**, Wills A, Sell D, Sandy J, Ness A: [Centre level variation in behaviour and the predictors of behaviour in 5 year old children with non-syndromic unilateral cleft lip: the Cleft Care UK study. Part 5](http://onlinelibrary.wiley.com/doi/10.1111/ocr.12187/full){:target="_blank"}. *Orthod Craniofac Res*, 2017, **20 (S2)**, 40--47.
 
 1. Ness A, Wills A, **Mahmoud O**, Hall A, Sell D, Smallridge J, Southby L, Stokes D, Toms S, Waylen A, Wren Y, Sandy J: [Centre level variation in treatment and outcomes and predictors of outcomes in 5 year old children with non-syndromic unilateral cleft lip treated within a centralised service: the Cleft Care UK study. Part 6:  summary and implications](http://onlinelibrary.wiley.com/doi/10.1111/ocr.12188/full){:target="_blank"}. *Orthod Craniofac Res*, 2017, **20 (S2)**, 48--51.
-
-1. Broomfield S, Mandavia A, Nicholson J, **Mahmoud O**, King A, Rutherford S, Ramsden R: Long Term Quality of Life Following Acoustic Neuroma Excision via the Translabyrinthine Approach. *Otology Neurotology*, 2017 [*Accepted*].
-
-1. Candler T, **Mahmoud O**, Lynn R, Majbar A, Barrett T, Hamilton-Shield J: Continuing rise in incidence of Type 2 Diabetes in Children and Young People in the UK and Republic of Ireland
-[*Submitted for publication*].
-
-1. **Mahmoud O**, Leary S, Marshall V, Kazi A, Hamilton-Shield J: An Evaluation of Wellpoint Health Kiosks: A Pilot Study [*Submitted for publication*].
-
-1. Khan Z, Gul A, Perperoglou A, **Mahmoud O**, Miftahuddin M, Adler W, Lausen B: An Ensemble of Optimal Trees for Classification and Regression. [*Submitted for publication*].
 
 1. Candler T, **Mahmoud O**, Edge J, Hamilton-Shield J: [Hypercholesterolaemia screening in Type 1 Diabetes – a difference of opinion](http://onlinelibrary.wiley.com/doi/10.1111/dme.13322/full){:target="_blank"}. *Diabetic Medicine*, 2017.
 
@@ -49,6 +42,12 @@ bigimg: /img/pages/Publications.jpg
 
 1.  Ahmed E, El-shair S, **Mahmoud O**: E-optimal design for detecting the main effects in $2^k$-factorial paired comparison experiments with full profiles. *Proceedings of the 43rd Annual Conference on Statistics, Computer Sciences and Operations Research*. ISSR, Cairo University, 2008, Cairo, Egypt.
 
+1. Candler T, **Mahmoud O**, Lynn R, Majbar A, Barrett T, Hamilton-Shield J: Continuing rise in incidence of Type 2 Diabetes in Children and Young People in the UK and Republic of Ireland
+[*Submitted for publication*].
+
+1. **Mahmoud O**, Leary S, Marshall V, Kazi A, Hamilton-Shield J: An Evaluation of Wellpoint Health Kiosks: A Pilot Study [*Submitted for publication*].
+
+1. Khan Z, Gul A, Perperoglou A, **Mahmoud O**, Miftahuddin M, Adler W, Lausen B: An Ensemble of Optimal Trees for Classification and Regression. [*Submitted for publication*].
 
 ## Conference Presentations
 --------------------
