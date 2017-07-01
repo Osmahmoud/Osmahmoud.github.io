@@ -4,12 +4,12 @@ cd /media/osama/PhD/GitHub/Osmahmoud.github.io
 # To update bundle (frequently recommended)
 sudo bundle update
 
+# to preview what the generated site will look like in your browser locally
+bundle exec jekyll serve
+
 # To build your site locally using jekyll
 bundle exec jekyll build --destination <destination folder>
 # e.g.: bundle exec jekyll build --destination /media/osama/PhD/GitHub/Jekyll_destination
 
 # To build locally and watch
 bundle exec jekyll build --watch
-
-# to preview what the generated site will look like in your browser locally
-bundle exec jekyll serve
