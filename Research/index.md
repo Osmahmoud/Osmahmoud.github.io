@@ -28,7 +28,7 @@ bigimg: /img/pages/Publications.jpg
 
 1. Ness A, Wills A, **Mahmoud O**, Hall A, Sell D, Smallridge J, Southby L, Stokes D, Toms S, Waylen A, Wren Y, Sandy J: [Centre level variation in treatment and outcomes and predictors of outcomes in 5 year old children with non-syndromic unilateral cleft lip treated within a centralised service: the Cleft Care UK study. Part 6:  summary and implications](http://onlinelibrary.wiley.com/doi/10.1111/ocr.12188/full){:target="_blank"}. *Orthod Craniofac Res*, 2017, **20 (S2)**, 48--51.
 
-1. Candler T, **Mahmoud O**, Edge J, Hamilton-Shield J: [Hypercholesterolaemia screening in Type 1 Diabetes – a difference of opinion](http://onlinelibrary.wiley.com/doi/10.1111/dme.13322/full){:target="_blank"}. *Diabetic Medicine*, 2017.
+1. Candler T, **Mahmoud O**, Edge J, Hamilton-Shield J: [Hypercholesterolaemia screening in Type 1 Diabetes – a difference of opinion](http://onlinelibrary.wiley.com/doi/10.1111/dme.13322/full){:target="_blank"}. *Diabetic Medicine*, 2017, **34**, 983--986.
 
 1.  Gul A, Perperoglou A, Khan Z, **Mahmoud O**, Miftahuddin M, Adler W, Lausen B: [Ensemble of a Subset of kNN Classifiers](http://link.springer.com/article/10.1007/s11634-015-0227-5){:target="_blank"}. *Advances in Data Analysis and Classification*, 2016, 1--14.
 
