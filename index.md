@@ -75,4 +75,3 @@ A brief list of my research interests includes:
   - Data science.
   - Statistics for Public Health.
   - Genetic Epidemiology.
-  
