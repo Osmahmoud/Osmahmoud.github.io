@@ -33,10 +33,11 @@ bigimg:
   - "/img/BigImg/WeserRiver.jpeg" : "Weser River, Bremen, Germany - 2014"
   - "/img/BigImg/YSM.jpeg" : "Young Statisticians Conference, London - 2013"
 ---
-[Senior Research Associate in Medical Statistics](http://research-information.bristol.ac.uk/en/persons/osama-mahmoud(678d8565-36f9-4178-9c78-c4371afc9541).html "View academic profile"){:target="_blank"}, University of Bristol, United Kingdom.
+[Senior Research Associate in Medical Statistics](http://www.bris.ac.uk/social-community-medicine/people/osama-mahmoud/ "View academic profile"){:target="_blank"}, University of Bristol, United Kingdom.
 
-  - NIHR Bristol Nutrition Biomedical Research Unit ([BRU](http://www.uhbristol.nhs.uk/research-innovation/our-research/bristol-nutrition-bru/about-us/staff/osama-mahmoud/){:target="_blank"}).
-  - School of Social and Community Medicine ([SSCM](http://www.bris.ac.uk/social-community-medicine/people/osama-mahmoud/){:target="_blank"}).
+ - Medical School: Population Health Sciences ([PHS](http://research-information.bristol.ac.uk/en/persons/osama-mahmoud(678d8565-36f9-4178-9c78-c4371afc9541).html){:target="_blank"}).
+ - University of Bristol ([UoB](https://research-information.bristol.ac.uk/en/persons/osama-mahmoud(678d8565-36f9-4178-9c78-c4371afc9541)/publications.html?page=0){:target="_blank"}): resaerch outputs.
+
   
 ## Expertise
 
