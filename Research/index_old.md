@@ -14,6 +14,13 @@ bigimg: /img/pages/Publications.jpg
 ## Peer Reviewed Papers
 --------------------
 
+<ol class="OM-outline">
+<li>Broomfield S, Mandavia A, Nicholson J, <strong>Mahmoud O</strong>, King A, Rutherford S, Ramsden R: <a href="http://journals.lww.com/otology-neurotology/Abstract/2017/09000/Long_term_Quality_of_Life_Following_Vestibular.19.aspx" target="_blank">Long Term Quality of Life Following Acoustic Neuroma Excision via the Translabyrinthine Approach</a>
+
+</li>
+<li>text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text</li>
+</ol>
+
 1. Broomfield S, Mandavia A, Nicholson J, **Mahmoud O**, King A, Rutherford S, Ramsden R: [Long Term Quality of Life Following Acoustic Neuroma Excision via the Translabyrinthine Approach](http://journals.lww.com/otology-neurotology/Abstract/2017/09000/Long_term_Quality_of_Life_Following_Vestibular.19.aspx){:target="_blank"}. *Otology Neurotology*, 2017, **38 (8)**, 1165--1173.
 
 1. Wills A, **Mahmoud O**, Hall A, Sell D, Smallridge J, Southby L, Toms S, Waylen A, Wren Y, Ness A, Sandy J: [Centre level variation of treatment and outcome in 5 year old children with non-syndromic unilateral cleft lip and palate: the Cleft Care UK study. Part 1: methodology and results for dento-facial outcomes](http://onlinelibrary.wiley.com/doi/10.1111/ocr.12183/full){:target="_blank"}. *Orthod Craniofac Res*, 2017, **20 (S2)**, 1--7.

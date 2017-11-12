@@ -53,8 +53,15 @@
   margin-bottom: 14px
 }
 
+ol.OM-outline {
+  text-align: justify;
+   margin-top: 0.8cm;
+   margin-bottom: 1.2cm;
+}
 
-
+ol.OM-outline li {
+  margin: 30px 0;
+}
 
 
 
