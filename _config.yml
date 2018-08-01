@@ -32,6 +32,7 @@ paginate_path: "Research/All-projects/page:num/"
 # List of links in the navigation bar
 navbar-links:
   Research: "Research"
+  Shiny: "Shiny"
   Teaching: "Teaching"
   R Courses: "R-courses"
   About Me: "aboutme"

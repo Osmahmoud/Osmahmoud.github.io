@@ -1,0 +1,80 @@
+#portfolio-out {
+  background: #fff;
+  text-align: center;
+}
+
+#portfolio {
+  margin: 0 auto;
+  padding-top: 40px;
+}
+
+#portfolio-title {
+  color: #615d6d;
+  font-size: 34px;
+  margin-bottom: 45px;
+  display: inline-block;
+}
+
+#shinyapps-big {
+  overflow:hidden;
+}
+
+#shinyapps-big .shinyapp {
+  color: #3d3852;
+  margin: 0 30px 60px;
+  background: #fff;
+  transition: all 250ms;
+  text-align: left;
+  box-shadow: 0 0 20px #ccc;
+  border: 1px solid #eee;
+}
+
+#shinyapps-big .shinyapp:hover {
+  box-shadow: 0 0 20px #666;
+  background: #f2f6f9;
+  border-color: #aaa;
+}
+
+#shinyapps-big .shinyapp .apptitle {
+  font-weight: bold;
+  padding: 10px 15px;
+}
+
+#shinyapps-big .shinyapp .appimg {
+  width: 100%;
+  cursor: pointer;
+  border-bottom: 1px solid #eee;
+}
+
+#shinyapps-big .applink {
+  color: inherit;
+  display: block;
+  text-decoration: none !important;
+}
+
+#shinyapps-big .shinyapp .appdesc {
+  padding: 0 15px 15px;
+  font-size: 16px;
+  line-height: 1.5em;
+  text-align: justify;
+}
+
+
+
+
+#shinyapps-big {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+
+
+
+
+
+
+@media only screen and (max-width: 650px) {
+  #portfolio-title {
+    font-size: 28px;
+  }
+}
