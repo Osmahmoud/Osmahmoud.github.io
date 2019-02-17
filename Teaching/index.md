@@ -15,9 +15,13 @@ Alongside my current research-based role at the Faculty of Health Sciences, I am
 </p>
 
 **Modules include:**
+  - *Quantitative Research Methods* (Spring term - 2018/2019).
   - *Quantitative Research Methods* (Spring term - 2016/2017).
   - *Quantitative Research Methods* (Spring term - 2015/2016).
   - *Computer labs* using statistical packages (Spring term - 2015/2016)
+ 
+**Short-courses:** 
+  - *[Introduction to Data Visulaisation using R](http://www.bristol.ac.uk/medical-school/study/short-courses/Introduction-to-Data-Visualisation-and-Web-Applications-Using-R/)* (2-days course - 2018/2019).
   
 ## University of Essex
 <p align="justify">

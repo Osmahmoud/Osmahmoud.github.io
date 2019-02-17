@@ -40,9 +40,8 @@ bigimg:
 ---
 [Senior Research Associate in Medical Statistics](http://research-information.bristol.ac.uk/en/persons/osama-mahmoud(678d8565-36f9-4178-9c78-c4371afc9541).html "Show academic profile"){:target="_blank"}, University of Bristol, United Kingdom.
 
- - Medical School: [Population Health Sciences (PHS)](http://www.bris.ac.uk/social-community-medicine/people/osama-mahmoud/ "Osama's profile on the PHS page"){:target="_blank"}.
+ - Faculty of Life Sciences: [School of Psychological Science](http://www.bristol.ac.uk/expsych/people/osama-mahmoud/overview.html "Osama's profile on the University's page"){:target="_blank"}.
  - University of Bristol: [my resaerch outputs](https://research-information.bristol.ac.uk/en/persons/osama-mahmoud(678d8565-36f9-4178-9c78-c4371afc9541)/publications.html?page=0){:target="_blank"}.
- - [School of Psychological Science](http://www.bristol.ac.uk/psychology/research/).
  - [Tobacco and Alcohol Research Group (TARG)](http://www.bris.ac.uk/expsych/people/group/expsych-group/1927).
  - [MRC Integrative Epidemiology Unit](http://www.bristol.ac.uk/integrative-epidemiology/)
   
@@ -52,7 +51,7 @@ bigimg:
 My expertise lies within Medical Statistics and Bio-statistics domains with extensive practice of:</p>
  
   - Longitudinal analysis.
-  - Multilevel modelling.
+  - Statistical modelling.
   - Epidemiology.
   - Data science.
   - Classification and Clustering techniques.
@@ -60,7 +59,7 @@ My expertise lies within Medical Statistics and Bio-statistics domains with exte
   - Data visualisation.
 
 <p align="justify">
-My <a href="/Research/All-projects" title="List of projects" target="_blank">research projects</a> have led to a track record of <a href="/Research" title="List of publications" target="_blank">publications</a> in a number of reputable journals.
+My <a href="/Research/Selected-projects" title="List of projects" target="_blank">research projects</a> have led to a track record of <a href="/Research" title="List of publications" target="_blank">publications</a> in a number of reputable journals.
 </p>
 
 <p align="justify">
