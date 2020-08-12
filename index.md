@@ -48,15 +48,17 @@ Here are some relevant links:
 ## Expertise
 
 <p align="justify">
-My expertise lies within Data Science, Medical Statistics and Bio-Statistics domains with extensive practice of:</p>
-    - Classification and Clustering techniques.
-    - Causal inference.
-    - Statistical modelling.
-    - Longitudinal analysis.
-    - Epidemiology.
-    - High dimensional data analysis in medical studies.
-    - Analysis of functional genomic experiments.
-    - Data visualisation.
+My expertise lies within Data Science, Medical Statistics and Bio-Statistics domains with extensive practice of:
+</p>
+
+  - Classification and Clustering techniques.
+  - Causal inference.
+  - Statistical modelling.
+  - Longitudinal analysis.
+  - Epidemiology.
+  - High dimensional data analysis in medical studies.
+  - Analysis of functional genomic experiments.
+  - Data visualisation.
 
 <p align="justify">
 My <a href="/Research/Selected-projects" title="List of projects" target="_blank">research projects</a> have led to a track record of <a href="/Research" title="List of publications" target="_blank">publications</a> in a number of world-leading academic journals.
@@ -77,10 +79,11 @@ My research interests are diverse covering a range of methodological as well as 
 </p>
 
 A brief list of my research interests includes:
-    - Data science.
-    - Genetic epidemiology.
-    - Causal inferences.
-    - Statistical modelling.
-    - Statistics for Public Health.
-    - Clustering and classification problems.
+
+  - Data science.
+  - Genetic epidemiology.
+  - Causal inferences.
+  - Statistical modelling.
+  - Statistics for Public Health.
+  - Clustering and classification problems.
 
