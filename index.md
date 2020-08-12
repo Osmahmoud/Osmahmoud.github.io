@@ -40,3 +40,47 @@ bigimg:
 ---
 [Lecturer in Data Science and Statistics](https://www.essex.ac.uk/people/abdel02200/osama-mahmoud "Show academic profile at UoE"){:target="_blank"}, Department of Mathematical Sciences, University of Essex, United Kingdom.
 
+Here are some relevant links:
+ - [Department of Mathematical Sciences at the University of Essex](https://www.essex.ac.uk/departments/mathematical-sciences "DMS, University of Essex"){:target="_blank"}.
+ - [My Google Scholar profile](https://scholar.google.com/citations?user=sLf22b8AAAAJ&hl=en){:target="_blank"}.
+ - [My ResearchGate](https://www.researchgate.net/profile/Osama_Mahmoud7){:target="_blank"}.
+  
+## Expertise
+
+<p align="justify">
+My expertise lies within Data Science, Medical Statistics and Bio-Statistics domains with extensive practice of:</p>
+    - Classification and Clustering techniques.
+    - Causal inference.
+    - Statistical modelling.
+    - Longitudinal analysis.
+    - Epidemiology.
+    - High dimensional data analysis in medical studies.
+    - Analysis of functional genomic experiments.
+    - Data visualisation.
+
+<p align="justify">
+My <a href="/Research/Selected-projects" title="List of projects" target="_blank">research projects</a> have led to a track record of <a href="/Research" title="List of publications" target="_blank">publications</a> in a number of world-leading academic journals.
+</p>
+
+<p align="justify">
+I have an extensive experience on writing software commands, mainly using R, for newly developed statistical techniques as well as for applying effectively existing methods. I am an author for a number of <a href="https://www.rdocumentation.org/collaborators/name/Osama%20Mahmoud" target="_blank" title="Published packages">R packages</a> published on the <a href="https://cran.r-project.org/" target="_blank" title="Comprehensive R Archive Network">CRAN</a>. Moreover, I am the main developer, author/co-author for a number of <a href="/Shiny" title="List of web applications" target="_blank">web applications</a> in bio-medical sciences.
+</p>
+
+<p align="justify">
+Furthermore, I am running a number of statistical <a href="/R-courses" title="Details on R courses" target="_blank">courses using R</a> at several locations across Europe. I do deliver courses on-sites as well. If you are representing an institution and interested in finding out more details, please feel free to contact me.
+</p>
+
+## Research Interests
+
+<p align="justify">
+My research interests are diverse covering a range of methodological as well as applied statistical areas.
+</p>
+
+A brief list of my research interests includes:
+    - Data science.
+    - Genetic epidemiology.
+    - Causal inferences.
+    - Statistical modelling.
+    - Statistics for Public Health.
+    - Clustering and classification problems.
+
