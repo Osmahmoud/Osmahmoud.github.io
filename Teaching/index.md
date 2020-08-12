@@ -9,6 +9,20 @@ bigimg:
 Teaching is a key dimension of my career and is an activity that I have great passion for. My teaching experience is extensive with a wide variety of skills covering different teaching environments, class sizes and cultural settings.
 </p>
 
+## University of Essex - 2020 onward
+
+I am teaching the following modules:
+
+**Masters in applied Data Science:**
+  - MA304: [Exploratory Data Analysis and Data Visualisation](https://www1.essex.ac.uk/modules/Default.aspx?coursecode=MA304&level=7&period=AU&campus=CO&year=19){:target="_blank"}.
+  - MA331: [Programming and text analytics with R](https://www1.essex.ac.uk/modules/Default.aspx?coursecode=MA331&level=7&period=SP&campus=CO&year=20){:target="_blank"} (*Module leader*).
+  - MA334: [Data analysis and statistics with R](https://www1.essex.ac.uk/modules/Default.aspx?coursecode=MA334&level=7&period=SP&campus=CO&year=20){:target="_blank"}.
+  
+**Undergradute levels:**
+  - MA304: [Exploratory Data Analysis and Data Visualisation](https://www1.essex.ac.uk/modules/Default.aspx?coursecode=MA304&level=6&period=SP&campus=CO&year=20){:target="_blank"}.
+  - MA331: [Programming and text analytics with R](https://www1.essex.ac.uk/modules/Default.aspx?coursecode=MA331&level=4&period=SP&campus=CO&year=20){:target="_blank"} (*Module leader*).
+  - MA334: [Data analysis and statistics with R](https://www1.essex.ac.uk/modules/Default.aspx?coursecode=MA334&level=4&period=SP&campus=CO&year=20){:target="_blank"}.
+
 ## University of Bristol
 <p align="justify">
 Alongside my current research-based role at the Faculty of Health Sciences, I am engaged in variety  of  teaching  duties including teaching quantitative research methods and applied statistics within medical domain for undergraduate students.

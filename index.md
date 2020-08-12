@@ -1,9 +1,9 @@
 ---
 layout: page
 title: "Osama Mahmoud"
-subtitle: "Senior Research Associate in Medical Statistics / R Expert"
-meta-title: "Osama Mahmoud - Medical Statistician"
-meta-description: "Reasearch Statistician and R developer with a PhD in Biostatistics, a MSc and a Bachelor degrees in Applied Statistics. An expert in classification and clustering techniques, statistical multilevel modelling and data analysis of public health studies"
+subtitle: "Lecturer (Assistnat Professor) in Data Science & Statistics"
+meta-title: "Osama Mahmoud - Statistician / Data Scientist"
+meta-description: "Statistician and R developer with a PhD in Biostatistics, a MSc and a Bachelor degrees in Applied Statistics. An expert in classification, clustering techniques, causal inference, statistical multilevel modelling and data analysis of public health studies"
 bigimg:
 
   - "/img/BigImg/Paris-2018.jpg" : "Eiffel Tower, Paris - 2018"
@@ -38,28 +38,29 @@ bigimg:
 
   
 ---
-[Senior Research Associate in Medical Statistics](http://research-information.bristol.ac.uk/en/persons/osama-mahmoud(678d8565-36f9-4178-9c78-c4371afc9541).html "Show academic profile"){:target="_blank"}, University of Bristol, United Kingdom.
+[Lecturer in Data Science and Statistics ](https://www.essex.ac.uk/people/abdel02200/osama-mahmoud "Show academic profile"){:target="_blank"}, Department of Mathematical Sciences, University of Essex, United Kingdom.
 
- - Faculty of Life Sciences: [School of Psychological Science](http://www.bristol.ac.uk/expsych/people/osama-mahmoud/overview.html "Osama's profile on the University's page"){:target="_blank"}.
- - University of Bristol: [my resaerch outputs](https://research-information.bristol.ac.uk/en/persons/osama-mahmoud(678d8565-36f9-4178-9c78-c4371afc9541)/publications.html?page=0){:target="_blank"}.
- - [Tobacco and Alcohol Research Group (TARG)](http://www.bris.ac.uk/expsych/people/group/expsych-group/1927).
- - [MRC Integrative Epidemiology Unit](http://www.bristol.ac.uk/integrative-epidemiology/)
+Here are some relevant links:
+ - [Department of Mathematical Sciences at the University of Essex](https://www.essex.ac.uk/departments/mathematical-sciences "DMS, University of Essex"){:target="_blank"}.
+ - [My Google Scholar profile](https://scholar.google.com/citations?user=sLf22b8AAAAJ&hl=en){:target="_blank"}.
+ - [My ResearchGate](https://www.researchgate.net/profile/Osama_Mahmoud7){:target="_blank"}.
   
 ## Expertise
 
 <p align="justify">
-My expertise lies within Medical Statistics and Bio-statistics domains with extensive practice of:</p>
+My expertise lies within Data Science, Medical Statistics and Bio-Statistics domains with extensive practice of:</p>
  
-  - Longitudinal analysis.
-  - Statistical modelling.
-  - Epidemiology.
-  - Data science.
   - Classification and Clustering techniques.
-  - Analysis of high dimensional datasets, particularly from functional genomic experiments.
+  - Causal inference.
+  - Statistical modelling.
+  - Longitudinal analysis.
+  - Epidemiology.
+  - High dimensional data analysis in medical studies.
+  - Analysis of functional genomic experiments.
   - Data visualisation.
 
 <p align="justify">
-My <a href="/Research/Selected-projects" title="List of projects" target="_blank">research projects</a> have led to a track record of <a href="/Research" title="List of publications" target="_blank">publications</a> in a number of reputable journals.
+My <a href="/Research/Selected-projects" title="List of projects" target="_blank">research projects</a> have led to a track record of <a href="/Research" title="List of publications" target="_blank">publications</a> in a number of world-leading academic journals.
 </p>
 
 <p align="justify">
@@ -77,9 +78,10 @@ My research interests are diverse covering a range of methodological as well as 
 </p>
 
 A brief list of my research interests includes:
-
+  - Data science.
   - Genetic epidemiology.
   - Causal inferences.
   - Statistical modelling.
-  - Data science.
   - Statistics for Public Health.
+  - Clustering and classification problems.
+

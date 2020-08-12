@@ -48,7 +48,7 @@ avatar: "/img/Osama-Avatar.jpeg"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Osama Mahmoud
-  email: "o.mahmoud@bristol.ac.uk"
+  email: "o.mahmoud@essex.ac.uk"
   facebook: Dr.Osama.Stat
   github: Osmahmoud
   twitter: DrOsmahmoud
@@ -57,7 +57,7 @@ author:
   google-plus: 107300364909690655593
   youtube: channel/UCBax8T5WC2y0x9N-GabadPw
   researchgate: Osama_Mahmoud7
-  google-scholar: JrPrJEoAAAAJ
+  google-scholar: sLf22b8AAAAJ
   #reddit: yourname    # eg. daattali
   #xing: yourname      # eg. daattali
   #snapchat: yourname  # eg. daattali
@@ -191,7 +191,7 @@ exclude:
 #          label: "Publish"
 #          help: "Check to publish post, uncheck to hide."
 
-gems:
+plugins:
   - jekyll-paginate
 
 
