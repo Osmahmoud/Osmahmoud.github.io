@@ -1,5 +1,7 @@
 # Locate to your site folder (Osmahmoud.github.io) and then run:
-cd /media/osama/PhD/GitHub/Osmahmoud.github.io
+# cd /media/osama/PhD/GitHub/Osmahmoud.github.io
+# Mac location:
+cd ~/Osama\ Mahmoud/Github/General_Repos/Osmahmoud.github.io/
 
 # To update bundle (frequently recommended)
 sudo bundle update
