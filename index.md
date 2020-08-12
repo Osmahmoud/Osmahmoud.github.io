@@ -38,7 +38,7 @@ bigimg:
 
   
 ---
-[Lecturer in Data Science and Statistics ](https://www.essex.ac.uk/people/abdel02200/osama-mahmoud "Show academic profile"){:target="_blank"}, Department of Mathematical Sciences, University of Essex, United Kingdom.
+[Lecturer in Data Science and Statistics ](https://www.essex.ac.uk/people/abdel02200/osama-mahmoud "Show academic profile at UoE"){:target="_blank"}, Department of Mathematical Sciences, University of Essex, United Kingdom.
 
 Here are some relevant links:
  - [Department of Mathematical Sciences at the University of Essex](https://www.essex.ac.uk/departments/mathematical-sciences "DMS, University of Essex"){:target="_blank"}.
