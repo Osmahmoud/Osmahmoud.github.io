@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Osama Mahmoud"
-subtitle: "Lecturer (Assistnat Professor) in Data Science & Statistics"
+subtitle: "Lecturer (Assistant Professor) in Data Science & Statistics"
 meta-title: "Osama Mahmoud - Statistician / Data Scientist"
 meta-description: "Statistician and R developer with a PhD in Biostatistics, a MSc and a Bachelor degrees in Applied Statistics. An expert in classification, clustering techniques, causal inference, statistical multilevel modelling and data analysis of public health studies"
 bigimg:
