@@ -3,7 +3,7 @@ layout: page
 title: "Osama Mahmoud"
 subtitle: "Lecturer (Assistant Professor) in Data Science & Statistics"
 meta-title: "Osama Mahmoud - Statistician / Data Scientist"
-meta-description: "Statistician and R developer with a PhD in Biostatistics, a MSc and a Bachelor degrees in Applied Statistics. An expert in classification, clustering techniques, causal inference, statistical multilevel modelling and data analysis of public health studies"
+meta-description: "Statistician and R developer with a PhD in Bio-Statistics, a MS.c. and a BS.c. degrees in Applied Statistics. An expert in classification, clustering techniques, causal inference, longitudinal modelling and data analysis of public health"
 bigimg:
 
   - "/img/BigImg/Paris-2018.jpg" : "Eiffel Tower, Paris - 2018"
@@ -40,10 +40,15 @@ bigimg:
 ---
 [Lecturer in Data Science and Statistics](https://www.essex.ac.uk/people/abdel02200/osama-mahmoud "Show academic profile at UoE"){:target="_blank"}, Department of Mathematical Sciences, University of Essex, United Kingdom.
 
+[Honorary Senior Research Associate in Medical Statistics](https://www.bris.ac.uk/contact/person/getDetails?personKey=0VHFlG3d37FvlpvyrKJH3AZqocgDHh){:target="_blank"}, Bristol Medical School (PHS), University of Bristol, United Kingdom.
+
+[Director of the Data Science Courses](https://www.essex.ac.uk/courses/pg00742/1/msc-data-science){:target="_blank"} at the Department of Mathematical Sciences, University of Essex.
+
 Here are some relevant links:
  - [Department of Mathematical Sciences at the University of Essex](https://www.essex.ac.uk/departments/mathematical-sciences "DMS, University of Essex"){:target="_blank"}.
  - [My Google Scholar profile](https://scholar.google.com/citations?user=sLf22b8AAAAJ&hl=en){:target="_blank"}.
- - [My ResearchGate](https://www.researchgate.net/profile/Osama_Mahmoud7){:target="_blank"}.
+ - [My ORCID](https://orcid.org/0000-0003-0342-6704){:target="_blank"}.
+ - [My Scopus profile](https://www.scopus.com/authid/detail.uri?authorId=57193535862){:target="_blank"}.
   
 ## Expertise
 
@@ -51,39 +56,40 @@ Here are some relevant links:
 My expertise lies within Data Science, Medical Statistics and Bio-Statistics domains with extensive practice of:
 </p>
 
-  - Classification and Clustering techniques.
   - Causal inference.
-  - Statistical modelling.
-  - Longitudinal analysis.
+  - Machine learning.
+  - Longitudinal data analyses.
   - Epidemiology.
-  - High dimensional data analysis in medical studies.
-  - Analysis of functional genomic experiments.
-  - Data visualisation.
 
 <p align="justify">
-My <a href="/Research/Selected-projects" title="List of projects" target="_blank">research projects</a> have led to a track record of <a href="/Research" title="List of publications" target="_blank">publications</a> in a number of world-leading academic journals.
+My <a href="/Research/Selected-projects" title="List of projects" target="_blank">research projects</a> have led to a track record of <a href="/Research" title="List of publications" target="_blank">publications</a> in prestigious world-leading academic journals.
 </p>
 
 <p align="justify">
-I have an extensive experience on writing software commands, mainly using R, for newly developed statistical techniques as well as for applying effectively existing methods. I am an author for a number of <a href="https://www.rdocumentation.org/collaborators/name/Osama%20Mahmoud" target="_blank" title="Published packages">R packages</a> published on the <a href="https://cran.r-project.org/" target="_blank" title="Comprehensive R Archive Network">CRAN</a>. Moreover, I am the main developer, author/co-author for a number of <a href="/Shiny" title="List of web applications" target="_blank">web applications</a> in bio-medical sciences.
+I have a great passion for <a href="/Teaching" title="My teaching activities" target="_blank">teaching</a> Statistics and Data Science, and have taught them since 2004 in a variety of learning environments across three higher educational institutions in the UK and Egypt.
 </p>
 
 <p align="justify">
-Furthermore, I am running a number of statistical <a href="/R-courses" title="Details on R courses" target="_blank">courses using R</a> at several locations across Europe. I do deliver courses on-sites as well. If you are representing an institution and interested in finding out more details, please feel free to contact me.
+I am running a number of <a href="/R-courses" title="Details on R courses" target="_blank">Statistical and Data Science courses</a> at several locations across Europe. I do deliver courses on-sites as well. If you are representing an institution and interested in finding out more details, please feel free to contact me.
 </p>
+
+<p align="justify">
+I have an extensive experience on writing software commands, mainly using R, for newly developed statistical techniques as well as for effectively applying existing methods. I am an author of a number of statistical and machine learning methods whose <a href="https://www.rdocumentation.org/collaborators/name/Osama%20Mahmoud" target="_blank" title="Published packages"> software packages</a> are published on the <a href="https://cran.r-project.org/" target="_blank" title="Comprehensive R Archive Network">CRAN</a>, <a href="https://github.com/Osmahmoud" target="_blank" title="My Github">Github</a>, and purpose websites such as
+the <a href="http://osmahmoud.com/SlopeHunter/index.html" target="_blank" title="Slope-Hunter method">Slope-Hunter method</a>. Moreover, I am the main developer, author/co-author for a number of <a href="/Shiny" title="List of web applications" target="_blank">web applications</a> in bio-medical sciences.
+</p>
+
 
 ## Research Interests
 
 <p align="justify">
-My research interests are diverse covering a range of methodological as well as applied statistical areas.
+My research interests cover a range of methodological and applied Statistical and Data Science areas.
 </p>
 
 A brief list of my research interests includes:
 
-  - Data science.
-  - Genetic epidemiology.
-  - Causal inferences.
-  - Statistical modelling.
+  - Predictive modelling.
+  - Causal inferences and genetic epidemiology.
+  - Machine learning.
   - Statistics for Public Health.
-  - Clustering and classification problems.
+  - Classification and clustering.
 
