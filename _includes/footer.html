@@ -4,27 +4,6 @@
     <div class="row">
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
         <ul class="list-inline text-center footer-links">
-          {% if site.author.facebook and site.footer-links-active.facebook %}
-          <li>
-            <a href="https://www.facebook.com/{{ site.author.facebook }}" title="Facebook">
-              <i class="fa fa-facebook-square fa-3x"></i>
-            </a>
-          </li>
-          {% endif %}
-          {% if site.author.twitter and site.footer-links-active.twitter %}
-          <li>
-            <a href="https://twitter.com/{{ site.author.twitter }}" title="Twitter">
-                <i class="fa fa-twitter-square fa-3x"></i>
-            </a>
-          </li>
-          {% endif %}
-          {% if site.author.researchgate and site.footer-links-active.researchgate %}
-          <li>
-            <a href="https://www.researchgate.net/profile/{{ site.author.researchgate }}" title="Research Gate">
-              <i class="ai ai-researchgate-square ai-3x"></i>
-            </a>
-          </li>
-          {% endif %}
           {% if site.author.google-scholar and site.footer-links-active.google-scholar %}
           <li>
             <a href="https://scholar.google.co.uk/citations?user={{ site.author.google-scholar }}&hl=en" title="Google Scholar">
@@ -32,10 +11,10 @@
             </a>
           </li>
           {% endif %}
-          {% if site.author.email and site.footer-links-active.email %}
+          {% if site.author.ORCID and site.footer-links-active.ORCID %}
           <li>
-            <a href="mailto:{{ site.author.email }}?subject=Hello via {{ site.url-pretty }}" title="Email me">
-              <i class="fa fa-envelope-square fa-3x"></i>
+            <a href="https://orcid.org/{{ site.author.google-scholar }}" title="ORCID">
+              <i class="ai ai-orcid-square ai-3x"></i>
             </a>
           </li>
           {% endif %}
@@ -53,6 +32,41 @@
             </a>
           </li>
           {% endif %}
+          {% if site.author.twitter and site.footer-links-active.twitter %}
+          <li>
+            <a href="https://twitter.com/{{ site.author.twitter }}" title="Twitter">
+                <i class="fa fa-twitter-square fa-3x"></i>
+            </a>
+          </li>
+          {% endif %}
+          {% if site.author.youtube and site.footer-links-active.youtube %}
+          <li>
+            <a href="https://www.youtube.com/{{ site.author.youtube }}" title="YouTube">
+              <i class="fa fa-youtube-square fa-3x"></i>
+            </a>
+          </li>
+          {% endif %}
+          {% if site.author.email and site.footer-links-active.email %}
+          <li>
+            <a href="mailto:{{ site.author.email }}?subject=Hello via {{ site.url-pretty }}" title="Email me">
+              <i class="fa fa-envelope-square fa-3x"></i>
+            </a>
+          </li>
+          {% endif %}
+          {% if site.author.facebook and site.footer-links-active.facebook %}
+          <li>
+            <a href="https://www.facebook.com/{{ site.author.facebook }}" title="Facebook">
+              <i class="fa fa-facebook-square fa-3x"></i>
+            </a>
+          </li>
+          {% endif %}
+          {% if site.author.researchgate and site.footer-links-active.researchgate %}
+          <li>
+            <a href="https://www.researchgate.net/profile/{{ site.author.researchgate }}" title="Research Gate">
+              <i class="ai ai-researchgate-square ai-3x"></i>
+            </a>
+          </li>
+          {% endif %}
           {% if site.author.stackoverflow and site.footer-links-active.stackoverflow %}
           <li>
             <a href="https://stackoverflow.com/users/{{ site.author.stackoverflow }}" title="Stack Overflow">
@@ -64,13 +78,6 @@
           <li>
             <a href="https://plus.google.com/{{ site.author.google-plus }}" title="Google+">
               <i class="fa fa-google-plus-square fa-3x"></i>
-            </a>
-          </li>
-          {% endif %}
-          {% if site.author.youtube and site.footer-links-active.youtube %}
-          <li>
-            <a href="https://www.youtube.com/{{ site.author.youtube }}" title="YouTube">
-              <i class="fa fa-youtube-square fa-3x"></i>
             </a>
           </li>
           {% endif %}
