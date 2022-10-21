@@ -1,0 +1,125 @@
+Source: https://www.moncefbelyamani.com/the-definitive-guide-to-installing-ruby-gems-on-a-mac/
+=================
+macOS has the default location for Ruby gem installations in the system Ruby directory that is preinstalled by Apple. That directory is not meant to be modified, hence Apple not giving us permissions to write to it. This might Error:
+
+ERROR: While executing gem ... (Gem::FilePermissionError)
+You don't have write permissions for the /Library/Ruby/Gems/2.6.0 directory
+
+
+
+The best solution is to Install the new version with a Ruby version manager (recommended)
+Source: https://www.moncefbelyamani.com/how-to-install-xcode-homebrew-git-rvm-ruby-on-mac/#start-here-if-you-choose-the-long-and-manual-route
+==================
+
+Prerequisites
+-------------
+Supported macOS versions:
+
+Monterey (macOS 12)
+Big Sur (macOS 11)
+Catalina (macOS 10.15)
+Older macOS versions might still work, but I can’t guarantee it. Pre-release versions like the Ventura Beta (macOS 13 Beta) are not supported. You most likely won’t be able to install Ruby until Ventura is officially released.
+
+Make sure your macOS software is up to date
+-------------------------------------------
+Before you start, make sure you have the latest Apple software updates for your current macOS version. Click on the Apple icon in the top left of your screen, then click on System Preferences, and then click on Software Update. If there are any updates available, install them. If you already have the latest updates for the current macOS version, you don’t have to upgrade to the latest macOS.
+
+Make sure Home-brew is ready to brew
+-------------------------------------
+You can skip this section if you know you haven’t tried to install Homebrew yet. If you’re not sure, check the contents of the /usr/local folder by running this command in the Terminal app:
+$ ls /usr/local
+
+If there’s nothing in the folder, then you don’t have Homebrew. If it isn't empty, that means Homebrew is installed, and you’ll need to make sure that Homebrew is happy by running brew by checking:
+$ brew doctor
+
+It should say "Your system is ready to brew."
+
+If it’s not ready to brew, then read what Homebrew has to say and see if you can fix the issues on your own.
+
+Make sure you don’t have RVM, rbenv, or asdf installed
+------------------------------------------------------
+
+Of all the Ruby managers, I recommend "chruby" because it’s the most stable and easiest to use and maintain. Ruby managers are not compatible with one another, so if you have RVM, rbenv, or asdf, you’ll need to uninstall them.
+
+Check if you have other Ruby managers. Run these commands in your terminal:
+$ rvm help
+$ rbenv help
+
+$ asdf --help
+If those commands return any info, then you have that tool installed. If it says “command not found”, then you don’t have it installed. If you do have it installed, look up the uninstallation instructions for each tool on their website. 
+
+
+
+Installation
+------------
+Step 1: Install Homebrew and the Command Line Tools
+---------------------------------------------------
+
+$ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+Once the installation is successful, quit and restart Terminal, then check if Homebrew is ready to go:
+$ brew doctor
+If you get "Your system is ready to brew", you can move on to Step 2. Otherwise, read what Homebrew is saying very carefully. They usually provide great instructions that you should follow.
+
+
+Step 2: Install chruby and the latest Ruby with ruby-install
+------------------------------------------------------------
+$ brew install chruby ruby-install
+$ ruby-install ruby
+
+This will take a few minutes. If it succeeds, go to the next step to configure your shell to automatically use chruby.
+
+
+Step 3: Configure your shell
+----------------------------
+$ echo "source $(brew --prefix)/opt/chruby/share/chruby/chruby.sh" >> ~/.zshrc
+$ echo "source $(brew --prefix)/opt/chruby/share/chruby/auto.sh" >> ~/.zshrc
+$ echo "chruby ruby-3.1.2" >> ~/.zshrc
+
+Note that 3.1.2 in the commands above assumes 3.1.2 is the version that was installed at the beginning of Step 2.
+
+Quit and relaunch Terminal, then check that everything is working:
+$ which ruby
+$ ruby -v
+It should say ruby 3.1.2 or later.
+
+Step 4: Install any gem you want
+--------------------------------
+Congrats! You now have a working Ruby development environment. You should now be able to install Rails, Jekyll, cocoapods, fastlane, bundler, compass, or whatever gem you’ve been trying to install!
+
+Just make sure you don’t use sudo to install any gems!
+
+$ gem install bundler
+
+
+
+RUN YOUR LOCAL SITE:
+====================
+# Locate to your site folder (Osmahmoud.github.io) and then run:
+
+Update bundle (frequently recommended)
+--------------------------------------
+$ sudo bundle update
+$ sudo bundle update --bundler 			## (optional)
+
+
+Running the site locally
+------------------------
+# to preview what the generated site will look like in your browser locally
+===========================================================================
+$ bundle exec jekyll serve
+
+NOTE: If this returns an error, this might be due to the fact that the latest version of ruby that is installed with homebrew doesn't have "webrick" included by default. To fix it:
+$ sudo bundle add webrick 
+$ bundle exec jekyll serve
+
+# To build your site locally using jekyll
+=========================================
+$ bundle exec jekyll build --destination <destination folder>
+# e.g.: bundle exec jekyll build --destination /media/osama/PhD/GitHub/Jekyll_destination
+
+# To build locally and watch
+============================
+$ bundle exec jekyll build --watch
+
+
