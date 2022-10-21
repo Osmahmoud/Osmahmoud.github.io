@@ -59,6 +59,8 @@ author:
   researchgate: "Osama-Mahmoud-3"
   google-scholar: sLf22b8AAAAJ
   ORCID: 0000-0003-0342-6704
+  scopus: 57193535862
+  osf: gzqdw
   #reddit: yourname    # eg. daattali
   #xing: yourname      # eg. daattali
   #snapchat: yourname  # eg. daattali
@@ -84,6 +86,8 @@ footer-links-active:
   researchgate: true
   google-scholar: true
   ORCID: true
+  scopus: true
+  osf: true
 
 # Select which share links to show in posts
 share-links-active:

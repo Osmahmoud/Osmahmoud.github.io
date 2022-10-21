@@ -25,6 +25,27 @@
             </a>
           </li>
           {% endif %}
+          {% if site.author.scopus and site.footer-links-active.scopus %}
+          <li>
+            <a href="https://www.scopus.com/authid/detail.uri?authorId={{ site.author.scopus }}" title="Scopus">
+              <i class="ai ai-scopus-square ai-3x"></i>
+            </a>
+          </li>
+          {% endif %}
+          {% if site.author.researchgate and site.footer-links-active.researchgate %}
+          <li>
+            <a href="https://www.researchgate.net/profile/{{ site.author.researchgate }}" title="Research Gate">
+              <i class="ai ai-researchgate-square ai-3x"></i>
+            </a>
+          </li>
+          {% endif %}
+          {% if site.author.osf and site.footer-links-active.osf %}
+          <li>
+            <a href="https://osf.io/{{ site.author.osf }}" title="OSF">
+              <i class="ai ai-osf-square ai-3x"></i>
+            </a>
+          </li>
+          {% endif %}
           {% if site.author.linkedin and site.footer-links-active.linkedin %}
           <li>
             <a href="https://linkedin.com/in/{{ site.author.linkedin }}" title="LinkedIn">
@@ -57,13 +78,6 @@
           <li>
             <a href="https://www.facebook.com/{{ site.author.facebook }}" title="Facebook">
               <i class="fa fa-facebook-square fa-3x"></i>
-            </a>
-          </li>
-          {% endif %}
-          {% if site.author.researchgate and site.footer-links-active.researchgate %}
-          <li>
-            <a href="https://www.researchgate.net/profile/{{ site.author.researchgate }}" title="Research Gate">
-              <i class="ai ai-researchgate-square ai-3x"></i>
             </a>
           </li>
           {% endif %}
