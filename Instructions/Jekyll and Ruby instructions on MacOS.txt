@@ -1,5 +1,5 @@
-Install brew: (https://brew.sh)
-===============================
+Install brew - if needed -: (https://brew.sh)
+============================================
 
 $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
