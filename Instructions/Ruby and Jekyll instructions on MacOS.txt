@@ -90,6 +90,7 @@ Congrats! You now have a working Ruby development environment. You should now be
 Just make sure you don’t use sudo to install any gems!
 
 $ gem install bundler
+$ gem install jekyll
 
 
 
@@ -110,7 +111,7 @@ Running the site locally
 $ bundle exec jekyll serve
 
 NOTE: If this returns an error, this might be due to the fact that the latest version of ruby that is installed with homebrew doesn't have "webrick" included by default. To fix it:
-$ sudo bundle add webrick 
+$ sudo bundle add webrick
 $ bundle exec jekyll serve
 
 # To build your site locally using jekyll
