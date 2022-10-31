@@ -67,6 +67,13 @@
             </a>
           </li>
           {% endif %}
+          {% if site.author.stackoverflow and site.footer-links-active.stackoverflow %}
+          <li>
+            <a href="https://stackoverflow.com/users/{{ site.author.stackoverflow }}" title="Stack Overflow">
+              <i class="fa fa-stack-overflow fa-3x"></i>
+            </a>
+          </li>
+          {% endif %}
           {% if site.author.email and site.footer-links-active.email %}
           <li>
             <a href="mailto:{{ site.author.email }}?subject=Hello via {{ site.url-pretty }}" title="Email me">
@@ -78,13 +85,6 @@
           <li>
             <a href="https://www.facebook.com/{{ site.author.facebook }}" title="Facebook">
               <i class="fa fa-facebook-square fa-3x"></i>
-            </a>
-          </li>
-          {% endif %}
-          {% if site.author.stackoverflow and site.footer-links-active.stackoverflow %}
-          <li>
-            <a href="https://stackoverflow.com/users/{{ site.author.stackoverflow }}" title="Stack Overflow">
-              <i class="fa fa-stack-overflow fa-3x"></i>
             </a>
           </li>
           {% endif %}
