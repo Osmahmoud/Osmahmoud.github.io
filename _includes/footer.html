@@ -1,4 +1,6 @@
-<!-- Amended by Osama Mahmoud - to include 'academicons' along-with 'Font Awesome' -->
+<!-- Amended by Osama Mahmoud - to include 'academicons' (https://jpswalsh.github.io/academicons/)
+along-with 'Font Awesome' -->
+
 <footer>
   <div class="container beautiful-jekyll-footer">
     <div class="row">
@@ -46,6 +48,13 @@
             </a>
           </li>
           {% endif %}
+          {% if site.author.stackoverflow and site.footer-links-active.stackoverflow %}
+          <li>
+            <a href="https://stackoverflow.com/users/{{ site.author.stackoverflow }}" title="Stack Overflow">
+              <i class="ai ai-stackoverflow-square fa-3x"></i>
+            </a>
+          </li>
+          {% endif %}
           {% if site.author.linkedin and site.footer-links-active.linkedin %}
           <li>
             <a href="https://linkedin.com/in/{{ site.author.linkedin }}" title="LinkedIn">
@@ -64,13 +73,6 @@
           <li>
             <a href="https://www.youtube.com/{{ site.author.youtube }}" title="YouTube">
               <i class="fa fa-youtube-square fa-3x"></i>
-            </a>
-          </li>
-          {% endif %}
-          {% if site.author.stackoverflow and site.footer-links-active.stackoverflow %}
-          <li>
-            <a href="https://stackoverflow.com/users/{{ site.author.stackoverflow }}" title="Stack Overflow">
-              <i class="fa fa-stack-overflow fa-3x"></i>
             </a>
           </li>
           {% endif %}
