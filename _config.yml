@@ -61,11 +61,11 @@ author:
   ORCID: 0000-0003-0342-6704
   scopus: 57193535862
   osf: gzqdw
-  #reddit: yourname    # eg. daattali
-  #xing: yourname      # eg. daattali
-  #snapchat: yourname  # eg. daattali
-  #instagram: yourname # eg. daattali
-  #spotify: yourname   # eg. daattali
+  #reddit: yourname
+  #xing: yourname 
+  #snapchat: yourname
+  #instagram: yourname
+  #spotify: yourname
 
 # Select which links to show in the footer
 footer-links-active:
