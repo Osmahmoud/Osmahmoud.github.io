@@ -44,7 +44,7 @@ bigimg:
 
 [Director of the Data Science Courses](https://www.essex.ac.uk/courses/pg00742/1/msc-data-science){:target="_blank"} at the Department of Mathematical Sciences, University of Essex.
 
-[Author of the Slope-Hunter](http://osmahmoud.com/SlopeHunter/index.html){:target="_blank"}: A robust method for collider bias correction in conditional genome-wide association studies. The method has been published in [NATURE COMMUNICATIONS (2022)](https://rdcu.be/cGdDd){:target="_blank"}.
+[Author of the Slope-Hunter](https://www.nature.com/articles/s41467-022-28119-9){:target="_blank"}: A robust method for collider bias correction in conditional genome-wide association studies. The method has been published in [NATURE COMMUNICATIONS (2022)](https://rdcu.be/cGdDd){:target="_blank"}. An open-access software for [the Slope-Hunter method](http://osmahmoud.com/SlopeHunter/index.html){:target="_blank"} is developed and maintained by Osama.
 
 Here are some relevant links:
  - [Department of Mathematical Sciences at the University of Essex](https://www.essex.ac.uk/departments/mathematical-sciences "DMS, University of Essex"){:target="_blank"}.

@@ -37,24 +37,28 @@ css: "/css/index.css"
     <li><strong>Visualisation: </strong><em>Creating, editing and saving graphics in various formats using R.</em></li>
   </ul>
   
+  <hr>
+  
       <h3 class="courses" style="margin-bottom:-20px">PRESENTER</h3>
   <p align="justify"; class="courses">
-    <a href="/aboutme" target="_blank" style="color:#E9F14A">Dr. Osama Mahmoud</a>, Senior Research Associate in Medical Statistics, School of Social and Community Medicine, University of Bristol, UK.
+    <a href="/aboutme" target="_blank" style="color:#E9F14A">Dr. Osama Mahmoud</a>, Lecturer in Data Science and Statistics, the Director of UG and PG Data Science programmes at the Department of Mathematical Sciences, University of Essex, UK.
+  </p>
+  
+  <h3 class="courses">COURSE MATERIAL</h3>
+  <p align="justify"; class="courses">
+    The course slides, R scripts, practical questionas and answers covered in this course can be found on <a href="https://github.com/statcourses/Intro-R" target="_blank" style="color:#E9F14A">my statcourses github page</a>.
   </p>
   
   <h3 class="courses">INSTALLING THE R PACKAGE</h3>
-  <div class="alert alert-danger" role="alert" style="text-align:justify; color:black">
-NOTE: The installation of the R package is temporarily unavailable. This issue should be sorted out shortly. Appologize for any inconvenience!
-</div>
   
   <p align="justify"; class="courses">
-    Each course is associated with an R package tailored to combine together the practical sheets with solutions, course notes and training data sets. The R package associated with this course, named 'sscmRintro', can be simply installed by running the following code lines into your R session.
+    Each course is associated with an R package tailored to combine together the practical sheets with solutions, course notes and training data sets. The R package associated with this course, named <a href="https://github.com/statcourses/dsEssex" target="_blank" style="color:#E9F14A">'dsEssex'</a>, can be simply installed by running the following code lines into your R session.
   </p>
 
 <!-- insert the R code-->
-<div class="language-javascript highlighter-rouge"><pre class="highlight"><code><span class="nx">install</span><span class="p">.</span><span class="nx">packages</span><span class="p">(</span><span class="s2">"drat"</span><span class="p">)</span>
-<span class="nl">drat</span><span class="p">::</span><span class="nx">addRepo</span><span class="p">(</span><span class="s2">"statcourses"</span><span class="p">)</span>
-<span class="nx">install</span><span class="p">.</span><span class="nx">packages</span><span class="p">(</span><span class="s2">"sscmRintro"</span><span class="p">,</span> <span class="nx">type</span><span class="o">=</span><span class="s2">"source"</span><span class="p">)</span>
+<div class="language-javascript highlighter-rouge"><pre class="highlight"><code><span class="nx"># required only once per machine!</span>
+<span class="nl">if(!require(</span><span class="s2">"devtools"</span><span class="p">)) install.packages(</span><span class="s2">"devtools"</span><span class="p">)</span>
+<span class="nx">devtools::install_github(</span><span class="s2">"statcourses/dsEssex"</span><span class="p">)</span>
 </code></pre>
 </div>
   
@@ -63,7 +67,7 @@ NOTE: The installation of the R package is temporarily unavailable. This issue s
   </p>
   
   <!-- insert the R code-->
-  <div class="language-javascript highlighter-rouge"><pre class="highlight"><code><span class="nx">library</span><span class="p">(</span><span class="s2">"sscmRintro"</span><span class="p">)</span>
+  <div class="language-javascript highlighter-rouge"><pre class="highlight"><code><span class="nx">library</span><span class="p">(</span><span class="s2">"dsEssex"</span><span class="p">)</span>
 </code></pre>
 </div>
   
