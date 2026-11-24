@@ -44,7 +44,7 @@ bigimg:
 
 [Director of the Data Science Courses](https://www.essex.ac.uk/courses/pg00742/1/msc-data-science){:target="_blank"} at the Department of Mathematical Sciences, University of Essex.
 
-[Author of the Slope-Hunter](https://www.nature.com/articles/s41467-022-28119-9){:target="_blank"}: A robust method for collider bias correction in conditional genome-wide association studies. The method has been published in [NATURE COMMUNICATIONS (2022)](https://rdcu.be/cGdDd){:target="_blank"}. An open-access software for [the Slope-Hunter method](http://osmahmoud.com/SlopeHunter/index.html){:target="_blank"} is developed and maintained by Osama.
+[Author of the Slope-Hunter](https://www.nature.com/articles/s41467-022-28119-9){:target="_blank"}: A robust method for collider bias correction in conditional genome-wide association studies. The method has been published in [NATURE COMMUNICATIONS (2022)](https://rdcu.be/cGdDd){:target="_blank"}. An open-access software for [the Slope-Hunter method](https://osmahmoud.github.io/SlopeHunter/index.html){:target="_blank"} is developed and maintained by Osama.
 
 Here are some relevant links:
  - [Department of Mathematical Sciences at the University of Essex](https://www.essex.ac.uk/departments/mathematical-sciences "DMS, University of Essex"){:target="_blank"}.
@@ -77,7 +77,7 @@ I am running a number of <a href="/R-courses" title="Details on R courses" targe
 
 <p align="justify">
 I have an extensive experience on writing software commands, mainly using R, for newly developed statistical techniques as well as for effectively applying existing methods. I am an author of a number of statistical and machine learning methods whose <a href="https://www.rdocumentation.org/collaborators/name/Osama%20Mahmoud" target="_blank" title="Published packages"> software packages</a> are published on the <a href="https://cran.r-project.org/" target="_blank" title="Comprehensive R Archive Network">CRAN</a>, <a href="https://github.com/Osmahmoud" target="_blank" title="My Github">Github</a>, and purpose websites such as
-the <a href="http://osmahmoud.com/SlopeHunter/index.html" target="_blank" title="Slope-Hunter method">Slope-Hunter method</a>. Moreover, I am the main developer, author/co-author for a number of <a href="/Shiny" title="List of web applications" target="_blank">web applications</a> in bio-medical sciences.
+the <a href="https://osmahmoud.github.io/SlopeHunter/index.html" target="_blank" title="Slope-Hunter method">Slope-Hunter method</a>. Moreover, I am the main developer, author/co-author for a number of <a href="/Shiny" title="List of web applications" target="_blank">web applications</a> in bio-medical sciences.
 </p>
 
 

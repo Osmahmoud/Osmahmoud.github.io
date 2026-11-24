@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "Search osmahmoud.com"
+title: "Search osmahmoud.github.io"
 css: "/css/search.css"
 ---
 
-# Search osmahmoud.com
+# Search osmahmoud.github.io
 
 ### Using the Google Engine
 <div id="google-custom-search">
